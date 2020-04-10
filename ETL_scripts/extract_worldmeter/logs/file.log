@@ -989,3 +989,140 @@
 2020-04-10 14:54:03,MainThread,errorLogger,INFO,sending get request to file 44 from 44
 2020-04-10 14:54:13,MainThread,errorLogger,INFO,>>Quitting chromium
 2020-04-10 14:54:13,MainThread,errorLogger,INFO,>>End program
+2020-04-10 14:54:44,MainThread,errorLogger,INFO,>>Opening chromium in background
+2020-04-10 14:54:46,MainThread,errorLogger,INFO,>>Connecting to URL..waiting for response
+2020-04-10 14:54:54,MainThread,errorLogger,INFO,>>Checking for new links in URL
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,>>Downloading data from links: 70 files
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 1 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 2 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 3 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 4 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 5 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 6 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 7 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 8 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 9 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 10 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 11 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 12 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 13 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 14 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 15 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 16 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 17 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 18 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 19 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 20 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 21 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 22 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 23 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 24 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 25 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 26 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 27 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 28 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 29 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 30 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 31 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 32 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 33 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 34 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 35 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 36 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 37 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 38 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 39 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 40 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 41 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 42 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 43 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 44 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 45 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 46 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 47 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 48 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 49 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 50 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 51 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 52 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 53 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 54 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 55 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 56 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 57 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 58 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 59 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 60 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 61 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 62 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 63 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 64 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 65 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 66 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 67 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 68 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 69 from 70
+2020-04-10 14:54:55,MainThread,errorLogger,INFO,sending get request to file 70 from 70
+2020-04-10 14:55:15,MainThread,errorLogger,INFO,>>Quitting chromium
+2020-04-10 14:55:15,MainThread,errorLogger,INFO,>>End program
+2020-04-10 14:56:07,MainThread,errorLogger,INFO,>>Opening chromium in background
+2020-04-10 14:56:09,MainThread,errorLogger,INFO,>>Connecting to URL..waiting for response
+2020-04-10 14:56:17,MainThread,errorLogger,INFO,>>Checking for new links in URL
+2020-04-10 14:56:18,MainThread,errorLogger,INFO,>>Downloading data from links: 21 files
+2020-04-10 14:56:18,MainThread,errorLogger,INFO,sending get request to file 1 from 21
+2020-04-10 14:56:18,MainThread,errorLogger,INFO,sending get request to file 2 from 21
+2020-04-10 14:56:18,MainThread,errorLogger,INFO,sending get request to file 3 from 21
+2020-04-10 14:56:18,MainThread,errorLogger,INFO,sending get request to file 4 from 21
+2020-04-10 14:56:18,MainThread,errorLogger,INFO,sending get request to file 5 from 21
+2020-04-10 14:56:18,MainThread,errorLogger,INFO,sending get request to file 6 from 21
+2020-04-10 14:56:18,MainThread,errorLogger,INFO,sending get request to file 7 from 21
+2020-04-10 14:56:18,MainThread,errorLogger,INFO,sending get request to file 8 from 21
+2020-04-10 14:56:18,MainThread,errorLogger,INFO,sending get request to file 9 from 21
+2020-04-10 14:56:18,MainThread,errorLogger,INFO,sending get request to file 10 from 21
+2020-04-10 14:56:18,MainThread,errorLogger,INFO,sending get request to file 11 from 21
+2020-04-10 14:56:18,MainThread,errorLogger,INFO,sending get request to file 12 from 21
+2020-04-10 14:56:18,MainThread,errorLogger,INFO,sending get request to file 13 from 21
+2020-04-10 14:56:18,MainThread,errorLogger,INFO,sending get request to file 14 from 21
+2020-04-10 14:56:18,MainThread,errorLogger,INFO,sending get request to file 15 from 21
+2020-04-10 14:56:18,MainThread,errorLogger,INFO,sending get request to file 16 from 21
+2020-04-10 14:56:18,MainThread,errorLogger,INFO,sending get request to file 17 from 21
+2020-04-10 14:56:18,MainThread,errorLogger,INFO,sending get request to file 18 from 21
+2020-04-10 14:56:18,MainThread,errorLogger,INFO,sending get request to file 19 from 21
+2020-04-10 14:56:18,MainThread,errorLogger,INFO,sending get request to file 20 from 21
+2020-04-10 14:56:18,MainThread,errorLogger,INFO,sending get request to file 21 from 21
+2020-04-10 14:56:24,MainThread,errorLogger,INFO,>>Quitting chromium
+2020-04-10 14:56:24,MainThread,errorLogger,INFO,>>End program
+2020-04-10 14:56:47,MainThread,errorLogger,INFO,>>Opening chromium in background
+2020-04-10 14:56:49,MainThread,errorLogger,INFO,>>Connecting to URL..waiting for response
+2020-04-10 14:56:57,MainThread,errorLogger,INFO,>>Checking for new links in URL
+2020-04-10 14:56:58,MainThread,errorLogger,INFO,>>Downloading data from links: 23 files
+2020-04-10 14:57:00,MainThread,errorLogger,INFO,sending get request to file 7 from 23
+2020-04-10 14:57:00,MainThread,errorLogger,INFO,sending get request to file 9 from 23
+2020-04-10 14:57:00,MainThread,errorLogger,INFO,sending get request to file 2 from 23
+2020-04-10 14:57:00,MainThread,errorLogger,INFO,sending get request to file 4 from 23
+2020-04-10 14:57:00,MainThread,errorLogger,INFO,sending get request to file 12 from 23
+2020-04-10 14:57:00,MainThread,errorLogger,INFO,sending get request to file 14 from 23
+2020-04-10 14:57:00,MainThread,errorLogger,INFO,sending get request to file 17 from 23
+2020-04-10 14:57:00,MainThread,errorLogger,INFO,sending get request to file 5 from 23
+2020-04-10 14:57:00,MainThread,errorLogger,INFO,sending get request to file 16 from 23
+2020-04-10 14:57:00,MainThread,errorLogger,INFO,sending get request to file 20 from 23
+2020-04-10 14:57:00,MainThread,errorLogger,INFO,sending get request to file 19 from 23
+2020-04-10 14:57:00,MainThread,errorLogger,INFO,sending get request to file 10 from 23
+2020-04-10 14:57:01,MainThread,errorLogger,INFO,sending get request to file 6 from 23
+2020-04-10 14:57:01,MainThread,errorLogger,INFO,sending get request to file 13 from 23
+2020-04-10 14:57:01,MainThread,errorLogger,INFO,sending get request to file 8 from 23
+2020-04-10 14:57:01,MainThread,errorLogger,INFO,sending get request to file 1 from 23
+2020-04-10 14:57:01,MainThread,errorLogger,INFO,sending get request to file 18 from 23
+2020-04-10 14:57:01,MainThread,errorLogger,INFO,sending get request to file 3 from 23
+2020-04-10 14:57:02,MainThread,errorLogger,INFO,sending get request to file 22 from 23
+2020-04-10 14:57:02,MainThread,errorLogger,INFO,sending get request to file 15 from 23
+2020-04-10 14:57:02,MainThread,errorLogger,INFO,sending get request to file 21 from 23
+2020-04-10 14:57:02,MainThread,errorLogger,INFO,sending get request to file 11 from 23
+2020-04-10 14:57:04,MainThread,errorLogger,INFO,sending get request to file 23 from 23
+2020-04-10 14:57:05,MainThread,errorLogger,INFO,>>Quitting chromium
+2020-04-10 14:57:05,MainThread,errorLogger,INFO,>>End program
+2020-04-10 15:00:47,MainThread,errorLogger,INFO,>>Opening chromium in background
+2020-04-10 15:00:49,MainThread,errorLogger,INFO,>>Connecting to URL..waiting for response
+2020-04-10 15:00:59,MainThread,errorLogger,INFO,>>Checking for new links in URL
+2020-04-10 15:01:00,MainThread,errorLogger,INFO,>>Downloading data from links: 70 files
+2020-04-10 15:01:00,MainThread,errorLogger,INFO,Downloading 70 files

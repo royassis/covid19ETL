@@ -11,12 +11,12 @@ import aiohttp
 async def fetch_html(url: str, session: ClientSession, **kwargs) -> str:
     resp = await session.request(method="GET", url=url, **kwargs)
     resp.raise_for_status()
+    logger.info("Got response [%s] for URL: %s", resp.status, url)
     html = await resp.text()
     return html
 
-async def to_file(url,session,i,urls_len) -> None:
+async def to_file(url,session) -> None:
 
-    logger.info(f'sending get request to file {i+1} from {urls_len}')
     try:
         html = await fetch_html(url,session)
     except (
@@ -59,12 +59,12 @@ async def bulk_crawl_and_write( urls: list, **kwargs) -> None:
         tasks = []
         for i,url in enumerate(urls):
             tasks.append(
-                to_file(url=url, session=session, i=i, urls_len= urls_len, **kwargs)
+                to_file(url=url, session=session, **kwargs)
             )
         await asyncio.gather(*tasks)
 
 def main(urls):
-
+    logger.info(f'Downloading {urls.__len__()} files')
     s = time.perf_counter()
     asyncio.run(bulk_crawl_and_write(urls=urls))
     elapsed = time.perf_counter() - s
