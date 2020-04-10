@@ -96,3 +96,896 @@
 2020-04-10 14:10:51,MainThread,errorLogger,INFO,fecting file 16 from 16
 2020-04-10 14:11:00,MainThread,errorLogger,INFO,>>Quitting chromium
 2020-04-10 14:11:00,MainThread,errorLogger,INFO,>>End program
+2020-04-10 14:12:44,MainThread,errorLogger,INFO,>>Opening chromium in background
+2020-04-10 14:12:46,MainThread,errorLogger,INFO,>>Connecting to URL..waiting for response
+2020-04-10 14:12:54,MainThread,errorLogger,INFO,>>Checking for new links in URL
+2020-04-10 14:12:55,MainThread,errorLogger,INFO,>>Downloading data from links: 3 files
+2020-04-10 14:12:55,MainThread,errorLogger,INFO,sending get request to file 1 from 3
+2020-04-10 14:12:55,MainThread,errorLogger,INFO,sending get request to file 2 from 3
+2020-04-10 14:12:55,MainThread,errorLogger,INFO,sending get request to file 3 from 3
+2020-04-10 14:13:23,MainThread,errorLogger,INFO,>>Opening chromium in background
+2020-04-10 14:13:25,MainThread,errorLogger,INFO,>>Connecting to URL..waiting for response
+2020-04-10 14:13:32,MainThread,errorLogger,INFO,>>Checking for new links in URL
+2020-04-10 14:13:33,MainThread,errorLogger,INFO,>>Downloading data from links: 3 files
+2020-04-10 14:13:33,MainThread,errorLogger,INFO,sending get request to file 1 from 3
+2020-04-10 14:13:33,MainThread,errorLogger,INFO,sending get request to file 2 from 3
+2020-04-10 14:13:33,MainThread,errorLogger,INFO,sending get request to file 3 from 3
+2020-04-10 14:13:56,MainThread,errorLogger,INFO,>>Opening chromium in background
+2020-04-10 14:13:58,MainThread,errorLogger,INFO,>>Connecting to URL..waiting for response
+2020-04-10 14:14:06,MainThread,errorLogger,INFO,>>Checking for new links in URL
+2020-04-10 14:14:07,MainThread,errorLogger,INFO,>>Downloading data from links: 30 files
+2020-04-10 14:14:07,MainThread,errorLogger,INFO,sending get request to file 1 from 30
+2020-04-10 14:14:07,MainThread,errorLogger,INFO,sending get request to file 2 from 30
+2020-04-10 14:14:07,MainThread,errorLogger,INFO,sending get request to file 3 from 30
+2020-04-10 14:14:07,MainThread,errorLogger,INFO,sending get request to file 4 from 30
+2020-04-10 14:14:07,MainThread,errorLogger,INFO,sending get request to file 5 from 30
+2020-04-10 14:14:07,MainThread,errorLogger,INFO,sending get request to file 6 from 30
+2020-04-10 14:14:07,MainThread,errorLogger,INFO,sending get request to file 7 from 30
+2020-04-10 14:14:07,MainThread,errorLogger,INFO,sending get request to file 8 from 30
+2020-04-10 14:14:07,MainThread,errorLogger,INFO,sending get request to file 9 from 30
+2020-04-10 14:14:07,MainThread,errorLogger,INFO,sending get request to file 10 from 30
+2020-04-10 14:14:07,MainThread,errorLogger,INFO,sending get request to file 11 from 30
+2020-04-10 14:14:07,MainThread,errorLogger,INFO,sending get request to file 12 from 30
+2020-04-10 14:14:07,MainThread,errorLogger,INFO,sending get request to file 13 from 30
+2020-04-10 14:14:07,MainThread,errorLogger,INFO,sending get request to file 14 from 30
+2020-04-10 14:14:07,MainThread,errorLogger,INFO,sending get request to file 15 from 30
+2020-04-10 14:14:07,MainThread,errorLogger,INFO,sending get request to file 16 from 30
+2020-04-10 14:14:07,MainThread,errorLogger,INFO,sending get request to file 17 from 30
+2020-04-10 14:14:07,MainThread,errorLogger,INFO,sending get request to file 18 from 30
+2020-04-10 14:14:07,MainThread,errorLogger,INFO,sending get request to file 19 from 30
+2020-04-10 14:14:07,MainThread,errorLogger,INFO,sending get request to file 20 from 30
+2020-04-10 14:14:07,MainThread,errorLogger,INFO,sending get request to file 21 from 30
+2020-04-10 14:14:07,MainThread,errorLogger,INFO,sending get request to file 22 from 30
+2020-04-10 14:14:07,MainThread,errorLogger,INFO,sending get request to file 23 from 30
+2020-04-10 14:14:07,MainThread,errorLogger,INFO,sending get request to file 24 from 30
+2020-04-10 14:14:07,MainThread,errorLogger,INFO,sending get request to file 25 from 30
+2020-04-10 14:14:07,MainThread,errorLogger,INFO,sending get request to file 26 from 30
+2020-04-10 14:14:07,MainThread,errorLogger,INFO,sending get request to file 27 from 30
+2020-04-10 14:14:07,MainThread,errorLogger,INFO,sending get request to file 28 from 30
+2020-04-10 14:14:07,MainThread,errorLogger,INFO,sending get request to file 29 from 30
+2020-04-10 14:14:07,MainThread,errorLogger,INFO,sending get request to file 30 from 30
+2020-04-10 14:14:33,MainThread,errorLogger,INFO,>>Opening chromium in background
+2020-04-10 14:14:35,MainThread,errorLogger,INFO,>>Connecting to URL..waiting for response
+2020-04-10 14:14:45,MainThread,errorLogger,INFO,>>Checking for new links in URL
+2020-04-10 14:14:46,MainThread,errorLogger,INFO,>>Downloading data from links: 13 files
+2020-04-10 14:14:46,MainThread,errorLogger,INFO,sending get request to file 1 from 13
+2020-04-10 14:14:46,MainThread,errorLogger,INFO,sending get request to file 2 from 13
+2020-04-10 14:14:46,MainThread,errorLogger,INFO,sending get request to file 3 from 13
+2020-04-10 14:14:46,MainThread,errorLogger,INFO,sending get request to file 4 from 13
+2020-04-10 14:14:46,MainThread,errorLogger,INFO,sending get request to file 5 from 13
+2020-04-10 14:14:46,MainThread,errorLogger,INFO,sending get request to file 6 from 13
+2020-04-10 14:14:46,MainThread,errorLogger,INFO,sending get request to file 7 from 13
+2020-04-10 14:14:46,MainThread,errorLogger,INFO,sending get request to file 8 from 13
+2020-04-10 14:14:46,MainThread,errorLogger,INFO,sending get request to file 9 from 13
+2020-04-10 14:14:46,MainThread,errorLogger,INFO,sending get request to file 10 from 13
+2020-04-10 14:14:46,MainThread,errorLogger,INFO,sending get request to file 11 from 13
+2020-04-10 14:14:46,MainThread,errorLogger,INFO,sending get request to file 12 from 13
+2020-04-10 14:14:46,MainThread,errorLogger,INFO,sending get request to file 13 from 13
+2020-04-10 14:14:54,MainThread,errorLogger,INFO,>>Quitting chromium
+2020-04-10 14:14:54,MainThread,errorLogger,INFO,>>End program
+2020-04-10 14:16:39,MainThread,errorLogger,INFO,>>Opening chromium in background
+2020-04-10 14:16:41,MainThread,errorLogger,INFO,>>Connecting to URL..waiting for response
+2020-04-10 14:16:48,MainThread,errorLogger,INFO,>>Checking for new links in URL
+2020-04-10 14:16:49,MainThread,errorLogger,INFO,>>Downloading data from links: 32 files
+2020-04-10 14:16:49,MainThread,errorLogger,INFO,sending get request to file 1 from 32
+2020-04-10 14:16:49,MainThread,errorLogger,INFO,sending get request to file 2 from 32
+2020-04-10 14:16:49,MainThread,errorLogger,INFO,sending get request to file 3 from 32
+2020-04-10 14:16:49,MainThread,errorLogger,INFO,sending get request to file 4 from 32
+2020-04-10 14:16:49,MainThread,errorLogger,INFO,sending get request to file 5 from 32
+2020-04-10 14:16:49,MainThread,errorLogger,INFO,sending get request to file 6 from 32
+2020-04-10 14:16:49,MainThread,errorLogger,INFO,sending get request to file 7 from 32
+2020-04-10 14:16:49,MainThread,errorLogger,INFO,sending get request to file 8 from 32
+2020-04-10 14:16:49,MainThread,errorLogger,INFO,sending get request to file 9 from 32
+2020-04-10 14:16:49,MainThread,errorLogger,INFO,sending get request to file 10 from 32
+2020-04-10 14:16:49,MainThread,errorLogger,INFO,sending get request to file 11 from 32
+2020-04-10 14:16:49,MainThread,errorLogger,INFO,sending get request to file 12 from 32
+2020-04-10 14:16:49,MainThread,errorLogger,INFO,sending get request to file 13 from 32
+2020-04-10 14:16:49,MainThread,errorLogger,INFO,sending get request to file 14 from 32
+2020-04-10 14:16:49,MainThread,errorLogger,INFO,sending get request to file 15 from 32
+2020-04-10 14:16:49,MainThread,errorLogger,INFO,sending get request to file 16 from 32
+2020-04-10 14:16:49,MainThread,errorLogger,INFO,sending get request to file 17 from 32
+2020-04-10 14:16:49,MainThread,errorLogger,INFO,sending get request to file 18 from 32
+2020-04-10 14:16:49,MainThread,errorLogger,INFO,sending get request to file 19 from 32
+2020-04-10 14:16:49,MainThread,errorLogger,INFO,sending get request to file 20 from 32
+2020-04-10 14:16:49,MainThread,errorLogger,INFO,sending get request to file 21 from 32
+2020-04-10 14:16:49,MainThread,errorLogger,INFO,sending get request to file 22 from 32
+2020-04-10 14:16:49,MainThread,errorLogger,INFO,sending get request to file 23 from 32
+2020-04-10 14:16:49,MainThread,errorLogger,INFO,sending get request to file 24 from 32
+2020-04-10 14:16:49,MainThread,errorLogger,INFO,sending get request to file 25 from 32
+2020-04-10 14:16:49,MainThread,errorLogger,INFO,sending get request to file 26 from 32
+2020-04-10 14:16:49,MainThread,errorLogger,INFO,sending get request to file 27 from 32
+2020-04-10 14:16:49,MainThread,errorLogger,INFO,sending get request to file 28 from 32
+2020-04-10 14:16:49,MainThread,errorLogger,INFO,sending get request to file 29 from 32
+2020-04-10 14:16:49,MainThread,errorLogger,INFO,sending get request to file 30 from 32
+2020-04-10 14:16:49,MainThread,errorLogger,INFO,sending get request to file 31 from 32
+2020-04-10 14:16:49,MainThread,errorLogger,INFO,sending get request to file 32 from 32
+2020-04-10 14:18:25,MainThread,errorLogger,INFO,>>Opening chromium in background
+2020-04-10 14:18:27,MainThread,errorLogger,INFO,>>Connecting to URL..waiting for response
+2020-04-10 14:18:34,MainThread,errorLogger,INFO,>>Checking for new links in URL
+2020-04-10 14:18:35,MainThread,errorLogger,INFO,>>Downloading data from links: 14 files
+2020-04-10 14:18:35,MainThread,errorLogger,INFO,sending get request to file 1 from 14
+2020-04-10 14:18:35,MainThread,errorLogger,INFO,sending get request to file 2 from 14
+2020-04-10 14:18:35,MainThread,errorLogger,INFO,sending get request to file 3 from 14
+2020-04-10 14:18:35,MainThread,errorLogger,INFO,sending get request to file 4 from 14
+2020-04-10 14:18:35,MainThread,errorLogger,INFO,sending get request to file 5 from 14
+2020-04-10 14:18:35,MainThread,errorLogger,INFO,sending get request to file 6 from 14
+2020-04-10 14:18:35,MainThread,errorLogger,INFO,sending get request to file 7 from 14
+2020-04-10 14:18:35,MainThread,errorLogger,INFO,sending get request to file 8 from 14
+2020-04-10 14:18:35,MainThread,errorLogger,INFO,sending get request to file 9 from 14
+2020-04-10 14:18:35,MainThread,errorLogger,INFO,sending get request to file 10 from 14
+2020-04-10 14:18:35,MainThread,errorLogger,INFO,sending get request to file 11 from 14
+2020-04-10 14:18:35,MainThread,errorLogger,INFO,sending get request to file 12 from 14
+2020-04-10 14:18:35,MainThread,errorLogger,INFO,sending get request to file 13 from 14
+2020-04-10 14:18:35,MainThread,errorLogger,INFO,sending get request to file 14 from 14
+2020-04-10 14:18:43,MainThread,errorLogger,INFO,>>Quitting chromium
+2020-04-10 14:18:43,MainThread,errorLogger,INFO,>>End program
+2020-04-10 14:19:06,MainThread,errorLogger,INFO,>>Opening chromium in background
+2020-04-10 14:19:08,MainThread,errorLogger,INFO,>>Connecting to URL..waiting for response
+2020-04-10 14:19:15,MainThread,errorLogger,INFO,>>Checking for new links in URL
+2020-04-10 14:19:17,MainThread,errorLogger,INFO,>>Downloading data from links: 34 files
+2020-04-10 14:19:17,MainThread,errorLogger,INFO,sending get request to file 1 from 34
+2020-04-10 14:19:17,MainThread,errorLogger,INFO,sending get request to file 2 from 34
+2020-04-10 14:19:17,MainThread,errorLogger,INFO,sending get request to file 3 from 34
+2020-04-10 14:19:17,MainThread,errorLogger,INFO,sending get request to file 4 from 34
+2020-04-10 14:19:17,MainThread,errorLogger,INFO,sending get request to file 5 from 34
+2020-04-10 14:19:17,MainThread,errorLogger,INFO,sending get request to file 6 from 34
+2020-04-10 14:19:17,MainThread,errorLogger,INFO,sending get request to file 7 from 34
+2020-04-10 14:19:17,MainThread,errorLogger,INFO,sending get request to file 8 from 34
+2020-04-10 14:19:17,MainThread,errorLogger,INFO,sending get request to file 9 from 34
+2020-04-10 14:19:17,MainThread,errorLogger,INFO,sending get request to file 10 from 34
+2020-04-10 14:19:17,MainThread,errorLogger,INFO,sending get request to file 11 from 34
+2020-04-10 14:19:17,MainThread,errorLogger,INFO,sending get request to file 12 from 34
+2020-04-10 14:19:17,MainThread,errorLogger,INFO,sending get request to file 13 from 34
+2020-04-10 14:19:17,MainThread,errorLogger,INFO,sending get request to file 14 from 34
+2020-04-10 14:19:17,MainThread,errorLogger,INFO,sending get request to file 15 from 34
+2020-04-10 14:19:17,MainThread,errorLogger,INFO,sending get request to file 16 from 34
+2020-04-10 14:19:17,MainThread,errorLogger,INFO,sending get request to file 17 from 34
+2020-04-10 14:19:17,MainThread,errorLogger,INFO,sending get request to file 18 from 34
+2020-04-10 14:19:17,MainThread,errorLogger,INFO,sending get request to file 19 from 34
+2020-04-10 14:19:17,MainThread,errorLogger,INFO,sending get request to file 20 from 34
+2020-04-10 14:19:17,MainThread,errorLogger,INFO,sending get request to file 21 from 34
+2020-04-10 14:19:17,MainThread,errorLogger,INFO,sending get request to file 22 from 34
+2020-04-10 14:19:17,MainThread,errorLogger,INFO,sending get request to file 23 from 34
+2020-04-10 14:19:17,MainThread,errorLogger,INFO,sending get request to file 24 from 34
+2020-04-10 14:19:17,MainThread,errorLogger,INFO,sending get request to file 25 from 34
+2020-04-10 14:19:17,MainThread,errorLogger,INFO,sending get request to file 26 from 34
+2020-04-10 14:19:17,MainThread,errorLogger,INFO,sending get request to file 27 from 34
+2020-04-10 14:19:17,MainThread,errorLogger,INFO,sending get request to file 28 from 34
+2020-04-10 14:19:17,MainThread,errorLogger,INFO,sending get request to file 29 from 34
+2020-04-10 14:19:17,MainThread,errorLogger,INFO,sending get request to file 30 from 34
+2020-04-10 14:19:17,MainThread,errorLogger,INFO,sending get request to file 31 from 34
+2020-04-10 14:19:17,MainThread,errorLogger,INFO,sending get request to file 32 from 34
+2020-04-10 14:19:17,MainThread,errorLogger,INFO,sending get request to file 33 from 34
+2020-04-10 14:19:17,MainThread,errorLogger,INFO,sending get request to file 34 from 34
+2020-04-10 14:19:46,MainThread,errorLogger,INFO,>>Opening chromium in background
+2020-04-10 14:19:48,MainThread,errorLogger,INFO,>>Connecting to URL..waiting for response
+2020-04-10 14:19:57,MainThread,errorLogger,INFO,>>Checking for new links in URL
+2020-04-10 14:19:58,MainThread,errorLogger,INFO,>>Downloading data from links: 44 files
+2020-04-10 14:19:58,MainThread,errorLogger,INFO,sending get request to file 1 from 44
+2020-04-10 14:19:58,MainThread,errorLogger,INFO,sending get request to file 2 from 44
+2020-04-10 14:19:58,MainThread,errorLogger,INFO,sending get request to file 3 from 44
+2020-04-10 14:19:58,MainThread,errorLogger,INFO,sending get request to file 4 from 44
+2020-04-10 14:19:58,MainThread,errorLogger,INFO,sending get request to file 5 from 44
+2020-04-10 14:19:58,MainThread,errorLogger,INFO,sending get request to file 6 from 44
+2020-04-10 14:19:58,MainThread,errorLogger,INFO,sending get request to file 7 from 44
+2020-04-10 14:19:58,MainThread,errorLogger,INFO,sending get request to file 8 from 44
+2020-04-10 14:19:58,MainThread,errorLogger,INFO,sending get request to file 9 from 44
+2020-04-10 14:19:58,MainThread,errorLogger,INFO,sending get request to file 10 from 44
+2020-04-10 14:19:58,MainThread,errorLogger,INFO,sending get request to file 11 from 44
+2020-04-10 14:19:58,MainThread,errorLogger,INFO,sending get request to file 12 from 44
+2020-04-10 14:19:58,MainThread,errorLogger,INFO,sending get request to file 13 from 44
+2020-04-10 14:19:58,MainThread,errorLogger,INFO,sending get request to file 14 from 44
+2020-04-10 14:19:58,MainThread,errorLogger,INFO,sending get request to file 15 from 44
+2020-04-10 14:19:58,MainThread,errorLogger,INFO,sending get request to file 16 from 44
+2020-04-10 14:19:58,MainThread,errorLogger,INFO,sending get request to file 17 from 44
+2020-04-10 14:19:58,MainThread,errorLogger,INFO,sending get request to file 18 from 44
+2020-04-10 14:19:58,MainThread,errorLogger,INFO,sending get request to file 19 from 44
+2020-04-10 14:19:58,MainThread,errorLogger,INFO,sending get request to file 20 from 44
+2020-04-10 14:19:58,MainThread,errorLogger,INFO,sending get request to file 21 from 44
+2020-04-10 14:19:58,MainThread,errorLogger,INFO,sending get request to file 22 from 44
+2020-04-10 14:19:58,MainThread,errorLogger,INFO,sending get request to file 23 from 44
+2020-04-10 14:19:58,MainThread,errorLogger,INFO,sending get request to file 24 from 44
+2020-04-10 14:19:58,MainThread,errorLogger,INFO,sending get request to file 25 from 44
+2020-04-10 14:19:58,MainThread,errorLogger,INFO,sending get request to file 26 from 44
+2020-04-10 14:19:58,MainThread,errorLogger,INFO,sending get request to file 27 from 44
+2020-04-10 14:19:58,MainThread,errorLogger,INFO,sending get request to file 28 from 44
+2020-04-10 14:19:58,MainThread,errorLogger,INFO,sending get request to file 29 from 44
+2020-04-10 14:19:58,MainThread,errorLogger,INFO,sending get request to file 30 from 44
+2020-04-10 14:19:58,MainThread,errorLogger,INFO,sending get request to file 31 from 44
+2020-04-10 14:19:58,MainThread,errorLogger,INFO,sending get request to file 32 from 44
+2020-04-10 14:19:58,MainThread,errorLogger,INFO,sending get request to file 33 from 44
+2020-04-10 14:19:58,MainThread,errorLogger,INFO,sending get request to file 34 from 44
+2020-04-10 14:19:58,MainThread,errorLogger,INFO,sending get request to file 35 from 44
+2020-04-10 14:19:58,MainThread,errorLogger,INFO,sending get request to file 36 from 44
+2020-04-10 14:19:58,MainThread,errorLogger,INFO,sending get request to file 37 from 44
+2020-04-10 14:19:58,MainThread,errorLogger,INFO,sending get request to file 38 from 44
+2020-04-10 14:19:58,MainThread,errorLogger,INFO,sending get request to file 39 from 44
+2020-04-10 14:19:58,MainThread,errorLogger,INFO,sending get request to file 40 from 44
+2020-04-10 14:19:58,MainThread,errorLogger,INFO,sending get request to file 41 from 44
+2020-04-10 14:19:58,MainThread,errorLogger,INFO,sending get request to file 42 from 44
+2020-04-10 14:19:58,MainThread,errorLogger,INFO,sending get request to file 43 from 44
+2020-04-10 14:19:58,MainThread,errorLogger,INFO,sending get request to file 44 from 44
+2020-04-10 14:24:14,MainThread,errorLogger,INFO,>>Opening chromium in background
+2020-04-10 14:24:16,MainThread,errorLogger,INFO,>>Connecting to URL..waiting for response
+2020-04-10 14:24:22,MainThread,errorLogger,INFO,>>Checking for new links in URL
+2020-04-10 14:24:23,MainThread,errorLogger,INFO,>>Downloading data from links: 34 files
+2020-04-10 14:24:23,MainThread,errorLogger,INFO,sending get request to file 1 from 34
+2020-04-10 14:24:23,MainThread,errorLogger,INFO,sending get request to file 2 from 34
+2020-04-10 14:24:23,MainThread,errorLogger,INFO,sending get request to file 3 from 34
+2020-04-10 14:24:23,MainThread,errorLogger,INFO,sending get request to file 4 from 34
+2020-04-10 14:24:23,MainThread,errorLogger,INFO,sending get request to file 5 from 34
+2020-04-10 14:24:23,MainThread,errorLogger,INFO,sending get request to file 6 from 34
+2020-04-10 14:24:23,MainThread,errorLogger,INFO,sending get request to file 7 from 34
+2020-04-10 14:24:23,MainThread,errorLogger,INFO,sending get request to file 8 from 34
+2020-04-10 14:24:23,MainThread,errorLogger,INFO,sending get request to file 9 from 34
+2020-04-10 14:24:23,MainThread,errorLogger,INFO,sending get request to file 10 from 34
+2020-04-10 14:24:23,MainThread,errorLogger,INFO,sending get request to file 11 from 34
+2020-04-10 14:24:23,MainThread,errorLogger,INFO,sending get request to file 12 from 34
+2020-04-10 14:24:23,MainThread,errorLogger,INFO,sending get request to file 13 from 34
+2020-04-10 14:24:23,MainThread,errorLogger,INFO,sending get request to file 14 from 34
+2020-04-10 14:24:23,MainThread,errorLogger,INFO,sending get request to file 15 from 34
+2020-04-10 14:24:23,MainThread,errorLogger,INFO,sending get request to file 16 from 34
+2020-04-10 14:24:23,MainThread,errorLogger,INFO,sending get request to file 17 from 34
+2020-04-10 14:24:23,MainThread,errorLogger,INFO,sending get request to file 18 from 34
+2020-04-10 14:24:23,MainThread,errorLogger,INFO,sending get request to file 19 from 34
+2020-04-10 14:24:23,MainThread,errorLogger,INFO,sending get request to file 20 from 34
+2020-04-10 14:24:23,MainThread,errorLogger,INFO,sending get request to file 21 from 34
+2020-04-10 14:24:23,MainThread,errorLogger,INFO,sending get request to file 22 from 34
+2020-04-10 14:24:23,MainThread,errorLogger,INFO,sending get request to file 23 from 34
+2020-04-10 14:24:23,MainThread,errorLogger,INFO,sending get request to file 24 from 34
+2020-04-10 14:24:23,MainThread,errorLogger,INFO,sending get request to file 25 from 34
+2020-04-10 14:24:23,MainThread,errorLogger,INFO,sending get request to file 26 from 34
+2020-04-10 14:24:23,MainThread,errorLogger,INFO,sending get request to file 27 from 34
+2020-04-10 14:24:23,MainThread,errorLogger,INFO,sending get request to file 28 from 34
+2020-04-10 14:24:23,MainThread,errorLogger,INFO,sending get request to file 29 from 34
+2020-04-10 14:24:23,MainThread,errorLogger,INFO,sending get request to file 30 from 34
+2020-04-10 14:24:23,MainThread,errorLogger,INFO,sending get request to file 31 from 34
+2020-04-10 14:24:23,MainThread,errorLogger,INFO,sending get request to file 32 from 34
+2020-04-10 14:24:23,MainThread,errorLogger,INFO,sending get request to file 33 from 34
+2020-04-10 14:24:23,MainThread,errorLogger,INFO,sending get request to file 34 from 34
+2020-04-10 14:24:25,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200406/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:24:25,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200402/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:24:25,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200302/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:24:25,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200303/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:24:25,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200404/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:24:25,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200301/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:24:25,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200229/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:24:25,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200403/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:24:25,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200228/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:24:25,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200401/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:24:27,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200225/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:24:31,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200408/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:24:31,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200409/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:24:31,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200405/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:24:31,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200407/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:24:31,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200304/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:24:31,MainThread,errorLogger,INFO,>>Quitting chromium
+2020-04-10 14:24:31,MainThread,errorLogger,INFO,>>End program
+2020-04-10 14:27:14,MainThread,errorLogger,INFO,>>Opening chromium in background
+2020-04-10 14:27:16,MainThread,errorLogger,INFO,>>Connecting to URL..waiting for response
+2020-04-10 14:27:23,MainThread,errorLogger,INFO,>>Checking for new links in URL
+2020-04-10 14:27:24,MainThread,errorLogger,INFO,>>Downloading data from links: 46 files
+2020-04-10 14:27:24,MainThread,errorLogger,INFO,sending get request to file 1 from 46
+2020-04-10 14:27:24,MainThread,errorLogger,INFO,sending get request to file 2 from 46
+2020-04-10 14:27:24,MainThread,errorLogger,INFO,sending get request to file 3 from 46
+2020-04-10 14:27:24,MainThread,errorLogger,INFO,sending get request to file 4 from 46
+2020-04-10 14:27:24,MainThread,errorLogger,INFO,sending get request to file 5 from 46
+2020-04-10 14:27:24,MainThread,errorLogger,INFO,sending get request to file 6 from 46
+2020-04-10 14:27:24,MainThread,errorLogger,INFO,sending get request to file 7 from 46
+2020-04-10 14:27:24,MainThread,errorLogger,INFO,sending get request to file 8 from 46
+2020-04-10 14:27:24,MainThread,errorLogger,INFO,sending get request to file 9 from 46
+2020-04-10 14:27:24,MainThread,errorLogger,INFO,sending get request to file 10 from 46
+2020-04-10 14:27:24,MainThread,errorLogger,INFO,sending get request to file 11 from 46
+2020-04-10 14:27:24,MainThread,errorLogger,INFO,sending get request to file 12 from 46
+2020-04-10 14:27:24,MainThread,errorLogger,INFO,sending get request to file 13 from 46
+2020-04-10 14:27:24,MainThread,errorLogger,INFO,sending get request to file 14 from 46
+2020-04-10 14:27:24,MainThread,errorLogger,INFO,sending get request to file 15 from 46
+2020-04-10 14:27:24,MainThread,errorLogger,INFO,sending get request to file 16 from 46
+2020-04-10 14:27:24,MainThread,errorLogger,INFO,sending get request to file 17 from 46
+2020-04-10 14:27:24,MainThread,errorLogger,INFO,sending get request to file 18 from 46
+2020-04-10 14:27:24,MainThread,errorLogger,INFO,sending get request to file 19 from 46
+2020-04-10 14:27:24,MainThread,errorLogger,INFO,sending get request to file 20 from 46
+2020-04-10 14:27:24,MainThread,errorLogger,INFO,sending get request to file 21 from 46
+2020-04-10 14:27:24,MainThread,errorLogger,INFO,sending get request to file 22 from 46
+2020-04-10 14:27:24,MainThread,errorLogger,INFO,sending get request to file 23 from 46
+2020-04-10 14:27:24,MainThread,errorLogger,INFO,sending get request to file 24 from 46
+2020-04-10 14:27:24,MainThread,errorLogger,INFO,sending get request to file 25 from 46
+2020-04-10 14:27:24,MainThread,errorLogger,INFO,sending get request to file 26 from 46
+2020-04-10 14:27:24,MainThread,errorLogger,INFO,sending get request to file 27 from 46
+2020-04-10 14:27:24,MainThread,errorLogger,INFO,sending get request to file 28 from 46
+2020-04-10 14:27:24,MainThread,errorLogger,INFO,sending get request to file 29 from 46
+2020-04-10 14:27:24,MainThread,errorLogger,INFO,sending get request to file 30 from 46
+2020-04-10 14:27:24,MainThread,errorLogger,INFO,sending get request to file 31 from 46
+2020-04-10 14:27:24,MainThread,errorLogger,INFO,sending get request to file 32 from 46
+2020-04-10 14:27:24,MainThread,errorLogger,INFO,sending get request to file 33 from 46
+2020-04-10 14:27:24,MainThread,errorLogger,INFO,sending get request to file 34 from 46
+2020-04-10 14:27:24,MainThread,errorLogger,INFO,sending get request to file 35 from 46
+2020-04-10 14:27:24,MainThread,errorLogger,INFO,sending get request to file 36 from 46
+2020-04-10 14:27:24,MainThread,errorLogger,INFO,sending get request to file 37 from 46
+2020-04-10 14:27:24,MainThread,errorLogger,INFO,sending get request to file 38 from 46
+2020-04-10 14:27:24,MainThread,errorLogger,INFO,sending get request to file 39 from 46
+2020-04-10 14:27:24,MainThread,errorLogger,INFO,sending get request to file 40 from 46
+2020-04-10 14:27:24,MainThread,errorLogger,INFO,sending get request to file 41 from 46
+2020-04-10 14:27:24,MainThread,errorLogger,INFO,sending get request to file 42 from 46
+2020-04-10 14:27:24,MainThread,errorLogger,INFO,sending get request to file 43 from 46
+2020-04-10 14:27:24,MainThread,errorLogger,INFO,sending get request to file 44 from 46
+2020-04-10 14:27:24,MainThread,errorLogger,INFO,sending get request to file 45 from 46
+2020-04-10 14:27:24,MainThread,errorLogger,INFO,sending get request to file 46 from 46
+2020-04-10 14:27:28,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200220/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:27:28,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200221/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:27:28,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200222/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:27:28,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200223/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:27:28,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200224/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:27:28,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200225/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:27:28,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200226/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:27:28,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200227/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:27:28,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200228/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:27:28,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200229/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:27:29,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200301/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:27:29,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200302/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:27:30,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200303/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:27:30,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200304/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:27:30,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200305/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:27:31,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200306/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:27:31,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200401/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:27:31,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200402/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:27:31,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200403/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:27:32,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200404/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:27:32,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200405/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:27:32,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200406/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:27:32,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200407/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:27:32,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200408/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:27:33,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200409/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:27:33,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200217/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:27:33,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200218/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:27:33,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200219/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:27:45,MainThread,errorLogger,INFO,>>Quitting chromium
+2020-04-10 14:27:45,MainThread,errorLogger,INFO,>>End program
+2020-04-10 14:27:57,MainThread,errorLogger,INFO,>>Opening chromium in background
+2020-04-10 14:27:59,MainThread,errorLogger,INFO,>>Connecting to URL..waiting for response
+2020-04-10 14:28:06,MainThread,errorLogger,INFO,>>Checking for new links in URL
+2020-04-10 14:28:07,MainThread,errorLogger,INFO,>>Downloading data from links: 57 files
+2020-04-10 14:28:07,MainThread,errorLogger,INFO,sending get request to file 1 from 57
+2020-04-10 14:28:07,MainThread,errorLogger,INFO,sending get request to file 2 from 57
+2020-04-10 14:28:07,MainThread,errorLogger,INFO,sending get request to file 3 from 57
+2020-04-10 14:28:07,MainThread,errorLogger,INFO,sending get request to file 4 from 57
+2020-04-10 14:28:08,MainThread,errorLogger,INFO,sending get request to file 5 from 57
+2020-04-10 14:28:08,MainThread,errorLogger,INFO,sending get request to file 6 from 57
+2020-04-10 14:28:08,MainThread,errorLogger,INFO,sending get request to file 7 from 57
+2020-04-10 14:28:08,MainThread,errorLogger,INFO,sending get request to file 8 from 57
+2020-04-10 14:28:08,MainThread,errorLogger,INFO,sending get request to file 9 from 57
+2020-04-10 14:28:09,MainThread,errorLogger,INFO,sending get request to file 10 from 57
+2020-04-10 14:28:09,MainThread,errorLogger,INFO,sending get request to file 11 from 57
+2020-04-10 14:28:09,MainThread,errorLogger,INFO,sending get request to file 12 from 57
+2020-04-10 14:28:09,MainThread,errorLogger,INFO,sending get request to file 13 from 57
+2020-04-10 14:28:09,MainThread,errorLogger,INFO,sending get request to file 14 from 57
+2020-04-10 14:28:10,MainThread,errorLogger,INFO,sending get request to file 15 from 57
+2020-04-10 14:28:10,MainThread,errorLogger,INFO,sending get request to file 16 from 57
+2020-04-10 14:28:10,MainThread,errorLogger,INFO,sending get request to file 17 from 57
+2020-04-10 14:28:10,MainThread,errorLogger,INFO,sending get request to file 18 from 57
+2020-04-10 14:28:10,MainThread,errorLogger,INFO,sending get request to file 19 from 57
+2020-04-10 14:28:11,MainThread,errorLogger,INFO,sending get request to file 20 from 57
+2020-04-10 14:28:11,MainThread,errorLogger,INFO,sending get request to file 21 from 57
+2020-04-10 14:28:11,MainThread,errorLogger,INFO,sending get request to file 22 from 57
+2020-04-10 14:28:11,MainThread,errorLogger,INFO,sending get request to file 23 from 57
+2020-04-10 14:28:11,MainThread,errorLogger,INFO,sending get request to file 24 from 57
+2020-04-10 14:28:12,MainThread,errorLogger,INFO,sending get request to file 25 from 57
+2020-04-10 14:28:12,MainThread,errorLogger,INFO,sending get request to file 26 from 57
+2020-04-10 14:28:12,MainThread,errorLogger,INFO,sending get request to file 27 from 57
+2020-04-10 14:28:12,MainThread,errorLogger,INFO,sending get request to file 28 from 57
+2020-04-10 14:28:12,MainThread,errorLogger,INFO,sending get request to file 29 from 57
+2020-04-10 14:28:13,MainThread,errorLogger,INFO,sending get request to file 30 from 57
+2020-04-10 14:28:13,MainThread,errorLogger,INFO,sending get request to file 31 from 57
+2020-04-10 14:28:13,MainThread,errorLogger,INFO,sending get request to file 32 from 57
+2020-04-10 14:28:13,MainThread,errorLogger,INFO,sending get request to file 33 from 57
+2020-04-10 14:28:13,MainThread,errorLogger,INFO,sending get request to file 34 from 57
+2020-04-10 14:28:14,MainThread,errorLogger,INFO,sending get request to file 35 from 57
+2020-04-10 14:28:14,MainThread,errorLogger,INFO,sending get request to file 36 from 57
+2020-04-10 14:28:14,MainThread,errorLogger,INFO,sending get request to file 37 from 57
+2020-04-10 14:28:14,MainThread,errorLogger,INFO,sending get request to file 38 from 57
+2020-04-10 14:28:15,MainThread,errorLogger,INFO,sending get request to file 39 from 57
+2020-04-10 14:28:15,MainThread,errorLogger,INFO,sending get request to file 40 from 57
+2020-04-10 14:28:15,MainThread,errorLogger,INFO,sending get request to file 41 from 57
+2020-04-10 14:28:15,MainThread,errorLogger,INFO,sending get request to file 42 from 57
+2020-04-10 14:28:15,MainThread,errorLogger,INFO,sending get request to file 43 from 57
+2020-04-10 14:28:16,MainThread,errorLogger,INFO,sending get request to file 44 from 57
+2020-04-10 14:28:16,MainThread,errorLogger,INFO,sending get request to file 45 from 57
+2020-04-10 14:28:16,MainThread,errorLogger,INFO,sending get request to file 46 from 57
+2020-04-10 14:28:16,MainThread,errorLogger,INFO,sending get request to file 47 from 57
+2020-04-10 14:28:16,MainThread,errorLogger,INFO,sending get request to file 48 from 57
+2020-04-10 14:28:17,MainThread,errorLogger,INFO,sending get request to file 49 from 57
+2020-04-10 14:28:17,MainThread,errorLogger,INFO,sending get request to file 50 from 57
+2020-04-10 14:28:17,MainThread,errorLogger,INFO,sending get request to file 51 from 57
+2020-04-10 14:28:17,MainThread,errorLogger,INFO,sending get request to file 52 from 57
+2020-04-10 14:28:17,MainThread,errorLogger,INFO,sending get request to file 53 from 57
+2020-04-10 14:28:18,MainThread,errorLogger,INFO,sending get request to file 54 from 57
+2020-04-10 14:28:18,MainThread,errorLogger,INFO,sending get request to file 55 from 57
+2020-04-10 14:28:18,MainThread,errorLogger,INFO,sending get request to file 56 from 57
+2020-04-10 14:28:18,MainThread,errorLogger,INFO,sending get request to file 57 from 57
+2020-04-10 14:28:21,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200222/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:28:21,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200312/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:28:21,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200224/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:28:21,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200302/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:28:21,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200315/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:28:21,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200226/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:28:21,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200301/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:28:21,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200305/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:28:21,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200308/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:28:21,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200215/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:28:21,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200219/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:28:21,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200306/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:28:21,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200221/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:28:21,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200229/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:28:21,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200309/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:28:21,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200310/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:28:21,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200223/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:28:21,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200311/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:28:21,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200303/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:28:21,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200225/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:28:21,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200304/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:28:21,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200313/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:28:21,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200227/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:28:21,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200307/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:28:21,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200220/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:28:21,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200228/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:28:26,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200317/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:28:26,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200406/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:28:26,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200407/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:28:26,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200408/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:28:26,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200404/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:28:26,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200409/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:28:26,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200403/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:28:26,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200316/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:28:26,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200402/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:28:26,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200401/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:28:26,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200314/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:28:26,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200405/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:28:34,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200204/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:28:34,MainThread,errorLogger,INFO,>>Quitting chromium
+2020-04-10 14:28:34,MainThread,errorLogger,INFO,>>End program
+2020-04-10 14:32:08,MainThread,errorLogger,INFO,>>Opening chromium in background
+2020-04-10 14:32:10,MainThread,errorLogger,INFO,>>Connecting to URL..waiting for response
+2020-04-10 14:32:18,MainThread,errorLogger,INFO,>>Checking for new links in URL
+2020-04-10 14:32:19,MainThread,errorLogger,INFO,>>Downloading data from links: 39 files
+2020-04-10 14:32:19,MainThread,errorLogger,INFO,sending get request to file 1 from 3
+2020-04-10 14:32:19,MainThread,errorLogger,INFO,sending get request to file 2 from 3
+2020-04-10 14:32:19,MainThread,errorLogger,INFO,sending get request to file 3 from 3
+2020-04-10 14:32:22,MainThread,errorLogger,INFO,sending get request to file 1 from 3
+2020-04-10 14:32:22,MainThread,errorLogger,INFO,sending get request to file 2 from 3
+2020-04-10 14:32:22,MainThread,errorLogger,INFO,sending get request to file 3 from 3
+2020-04-10 14:32:25,MainThread,errorLogger,INFO,sending get request to file 1 from 3
+2020-04-10 14:32:25,MainThread,errorLogger,INFO,sending get request to file 2 from 3
+2020-04-10 14:32:25,MainThread,errorLogger,INFO,sending get request to file 3 from 3
+2020-04-10 14:32:28,MainThread,errorLogger,INFO,sending get request to file 1 from 3
+2020-04-10 14:32:28,MainThread,errorLogger,INFO,sending get request to file 2 from 3
+2020-04-10 14:32:28,MainThread,errorLogger,INFO,sending get request to file 3 from 3
+2020-04-10 14:32:32,MainThread,errorLogger,INFO,sending get request to file 1 from 3
+2020-04-10 14:32:32,MainThread,errorLogger,INFO,sending get request to file 2 from 3
+2020-04-10 14:32:32,MainThread,errorLogger,INFO,sending get request to file 3 from 3
+2020-04-10 14:32:37,MainThread,errorLogger,INFO,sending get request to file 1 from 3
+2020-04-10 14:32:37,MainThread,errorLogger,INFO,sending get request to file 2 from 3
+2020-04-10 14:32:37,MainThread,errorLogger,INFO,sending get request to file 3 from 3
+2020-04-10 14:32:43,MainThread,errorLogger,INFO,sending get request to file 1 from 3
+2020-04-10 14:32:43,MainThread,errorLogger,INFO,sending get request to file 2 from 3
+2020-04-10 14:32:43,MainThread,errorLogger,INFO,sending get request to file 3 from 3
+2020-04-10 14:32:44,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200307/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:32:44,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200306/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:32:44,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200308/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:32:44,MainThread,errorLogger,INFO,sending get request to file 1 from 3
+2020-04-10 14:32:44,MainThread,errorLogger,INFO,sending get request to file 2 from 3
+2020-04-10 14:32:44,MainThread,errorLogger,INFO,sending get request to file 3 from 3
+2020-04-10 14:32:46,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200310/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:32:46,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200311/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:32:46,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200309/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:32:46,MainThread,errorLogger,INFO,sending get request to file 1 from 3
+2020-04-10 14:32:46,MainThread,errorLogger,INFO,sending get request to file 2 from 3
+2020-04-10 14:32:46,MainThread,errorLogger,INFO,sending get request to file 3 from 3
+2020-04-10 14:32:48,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200312/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:32:48,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200314/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:32:48,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200313/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:32:48,MainThread,errorLogger,INFO,sending get request to file 1 from 3
+2020-04-10 14:32:48,MainThread,errorLogger,INFO,sending get request to file 2 from 3
+2020-04-10 14:32:48,MainThread,errorLogger,INFO,sending get request to file 3 from 3
+2020-04-10 14:32:49,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200316/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:32:49,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200315/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:32:49,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200317/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:32:50,MainThread,errorLogger,INFO,sending get request to file 1 from 3
+2020-04-10 14:32:50,MainThread,errorLogger,INFO,sending get request to file 2 from 3
+2020-04-10 14:32:50,MainThread,errorLogger,INFO,sending get request to file 3 from 3
+2020-04-10 14:32:51,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200401/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:32:51,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200403/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:32:51,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200402/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:32:51,MainThread,errorLogger,INFO,sending get request to file 1 from 3
+2020-04-10 14:32:51,MainThread,errorLogger,INFO,sending get request to file 2 from 3
+2020-04-10 14:32:51,MainThread,errorLogger,INFO,sending get request to file 3 from 3
+2020-04-10 14:32:53,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200404/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:32:53,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200405/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:32:53,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200406/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:32:53,MainThread,errorLogger,INFO,sending get request to file 1 from 3
+2020-04-10 14:32:53,MainThread,errorLogger,INFO,sending get request to file 2 from 3
+2020-04-10 14:32:53,MainThread,errorLogger,INFO,sending get request to file 3 from 3
+2020-04-10 14:32:55,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200408/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:32:55,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200409/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:32:55,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200407/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:32:55,MainThread,errorLogger,INFO,>>Quitting chromium
+2020-04-10 14:32:55,MainThread,errorLogger,INFO,>>End program
+2020-04-10 14:33:39,MainThread,errorLogger,INFO,>>Opening chromium in background
+2020-04-10 14:33:41,MainThread,errorLogger,INFO,>>Connecting to URL..waiting for response
+2020-04-10 14:33:50,MainThread,errorLogger,INFO,>>Checking for new links in URL
+2020-04-10 14:33:51,MainThread,errorLogger,INFO,>>Downloading data from links: 21 files
+2020-04-10 14:34:01,MainThread,errorLogger,INFO,>>Opening chromium in background
+2020-04-10 14:34:04,MainThread,errorLogger,INFO,>>Connecting to URL..waiting for response
+2020-04-10 14:34:14,MainThread,errorLogger,INFO,>>Checking for new links in URL
+2020-04-10 14:34:15,MainThread,errorLogger,INFO,>>Downloading data from links: 21 files
+2020-04-10 14:34:15,MainThread,errorLogger,INFO,sending get request to file 1 from 7
+2020-04-10 14:34:15,MainThread,errorLogger,INFO,sending get request to file 2 from 7
+2020-04-10 14:34:15,MainThread,errorLogger,INFO,sending get request to file 3 from 7
+2020-04-10 14:34:15,MainThread,errorLogger,INFO,sending get request to file 4 from 7
+2020-04-10 14:34:15,MainThread,errorLogger,INFO,sending get request to file 5 from 7
+2020-04-10 14:34:15,MainThread,errorLogger,INFO,sending get request to file 6 from 7
+2020-04-10 14:34:15,MainThread,errorLogger,INFO,sending get request to file 7 from 7
+2020-04-10 14:34:21,MainThread,errorLogger,INFO,sending get request to file 1 from 7
+2020-04-10 14:34:21,MainThread,errorLogger,INFO,sending get request to file 2 from 7
+2020-04-10 14:34:21,MainThread,errorLogger,INFO,sending get request to file 3 from 7
+2020-04-10 14:34:21,MainThread,errorLogger,INFO,sending get request to file 4 from 7
+2020-04-10 14:34:21,MainThread,errorLogger,INFO,sending get request to file 5 from 7
+2020-04-10 14:34:21,MainThread,errorLogger,INFO,sending get request to file 6 from 7
+2020-04-10 14:34:21,MainThread,errorLogger,INFO,sending get request to file 7 from 7
+2020-04-10 14:34:28,MainThread,errorLogger,INFO,sending get request to file 1 from 7
+2020-04-10 14:34:28,MainThread,errorLogger,INFO,sending get request to file 2 from 7
+2020-04-10 14:34:28,MainThread,errorLogger,INFO,sending get request to file 3 from 7
+2020-04-10 14:34:28,MainThread,errorLogger,INFO,sending get request to file 4 from 7
+2020-04-10 14:34:28,MainThread,errorLogger,INFO,sending get request to file 5 from 7
+2020-04-10 14:34:28,MainThread,errorLogger,INFO,sending get request to file 6 from 7
+2020-04-10 14:34:28,MainThread,errorLogger,INFO,sending get request to file 7 from 7
+2020-04-10 14:34:30,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200405/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:34:30,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200409/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:34:30,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200407/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:34:30,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200404/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:34:30,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200408/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:34:35,MainThread,errorLogger,INFO,>>Quitting chromium
+2020-04-10 14:34:35,MainThread,errorLogger,INFO,>>End program
+2020-04-10 14:34:47,MainThread,errorLogger,INFO,>>Opening chromium in background
+2020-04-10 14:34:49,MainThread,errorLogger,INFO,>>Connecting to URL..waiting for response
+2020-04-10 14:34:56,MainThread,errorLogger,INFO,>>Checking for new links in URL
+2020-04-10 14:34:57,MainThread,errorLogger,INFO,>>Downloading data from links: 17 files
+2020-04-10 14:34:58,MainThread,errorLogger,INFO,sending get request to file 1 from 10
+2020-04-10 14:34:59,MainThread,errorLogger,INFO,sending get request to file 2 from 10
+2020-04-10 14:34:59,MainThread,errorLogger,INFO,sending get request to file 3 from 10
+2020-04-10 14:34:59,MainThread,errorLogger,INFO,sending get request to file 4 from 10
+2020-04-10 14:34:59,MainThread,errorLogger,INFO,sending get request to file 5 from 10
+2020-04-10 14:34:59,MainThread,errorLogger,INFO,sending get request to file 6 from 10
+2020-04-10 14:34:59,MainThread,errorLogger,INFO,sending get request to file 7 from 10
+2020-04-10 14:34:59,MainThread,errorLogger,INFO,sending get request to file 8 from 10
+2020-04-10 14:34:59,MainThread,errorLogger,INFO,sending get request to file 9 from 10
+2020-04-10 14:34:59,MainThread,errorLogger,INFO,sending get request to file 10 from 10
+2020-04-10 14:35:08,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200206/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:35:09,MainThread,errorLogger,INFO,sending get request to file 1 from 7
+2020-04-10 14:35:09,MainThread,errorLogger,INFO,sending get request to file 2 from 7
+2020-04-10 14:35:09,MainThread,errorLogger,INFO,sending get request to file 3 from 7
+2020-04-10 14:35:09,MainThread,errorLogger,INFO,sending get request to file 4 from 7
+2020-04-10 14:35:09,MainThread,errorLogger,INFO,sending get request to file 5 from 7
+2020-04-10 14:35:09,MainThread,errorLogger,INFO,sending get request to file 6 from 7
+2020-04-10 14:35:09,MainThread,errorLogger,INFO,sending get request to file 7 from 7
+2020-04-10 14:35:11,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200408/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:35:11,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200405/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:35:11,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200406/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:35:11,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200409/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:35:11,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200407/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:35:11,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200403/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:35:11,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200404/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:35:11,MainThread,errorLogger,INFO,>>Quitting chromium
+2020-04-10 14:35:11,MainThread,errorLogger,INFO,>>End program
+2020-04-10 14:35:33,MainThread,errorLogger,INFO,>>Opening chromium in background
+2020-04-10 14:35:35,MainThread,errorLogger,INFO,>>Connecting to URL..waiting for response
+2020-04-10 14:35:44,MainThread,errorLogger,INFO,>>Checking for new links in URL
+2020-04-10 14:35:46,MainThread,errorLogger,INFO,>>Downloading data from links: 28 files
+2020-04-10 14:35:51,MainThread,errorLogger,INFO,sending get request to file 1 from 9
+2020-04-10 14:35:51,MainThread,errorLogger,INFO,sending get request to file 2 from 9
+2020-04-10 14:35:51,MainThread,errorLogger,INFO,sending get request to file 3 from 9
+2020-04-10 14:35:51,MainThread,errorLogger,INFO,sending get request to file 4 from 9
+2020-04-10 14:35:51,MainThread,errorLogger,INFO,sending get request to file 5 from 9
+2020-04-10 14:35:51,MainThread,errorLogger,INFO,sending get request to file 6 from 9
+2020-04-10 14:35:51,MainThread,errorLogger,INFO,sending get request to file 7 from 9
+2020-04-10 14:35:51,MainThread,errorLogger,INFO,sending get request to file 8 from 9
+2020-04-10 14:35:51,MainThread,errorLogger,INFO,sending get request to file 9 from 9
+2020-04-10 14:35:59,MainThread,errorLogger,INFO,sending get request to file 1 from 9
+2020-04-10 14:35:59,MainThread,errorLogger,INFO,sending get request to file 2 from 9
+2020-04-10 14:35:59,MainThread,errorLogger,INFO,sending get request to file 3 from 9
+2020-04-10 14:35:59,MainThread,errorLogger,INFO,sending get request to file 4 from 9
+2020-04-10 14:35:59,MainThread,errorLogger,INFO,sending get request to file 5 from 9
+2020-04-10 14:35:59,MainThread,errorLogger,INFO,sending get request to file 6 from 9
+2020-04-10 14:35:59,MainThread,errorLogger,INFO,sending get request to file 7 from 9
+2020-04-10 14:35:59,MainThread,errorLogger,INFO,sending get request to file 8 from 9
+2020-04-10 14:35:59,MainThread,errorLogger,INFO,sending get request to file 9 from 9
+2020-04-10 14:36:01,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200219/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:36:01,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200218/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:36:08,MainThread,errorLogger,INFO,sending get request to file 1 from 9
+2020-04-10 14:36:08,MainThread,errorLogger,INFO,sending get request to file 2 from 9
+2020-04-10 14:36:08,MainThread,errorLogger,INFO,sending get request to file 3 from 9
+2020-04-10 14:36:08,MainThread,errorLogger,INFO,sending get request to file 4 from 9
+2020-04-10 14:36:08,MainThread,errorLogger,INFO,sending get request to file 5 from 9
+2020-04-10 14:36:08,MainThread,errorLogger,INFO,sending get request to file 6 from 9
+2020-04-10 14:36:08,MainThread,errorLogger,INFO,sending get request to file 7 from 9
+2020-04-10 14:36:08,MainThread,errorLogger,INFO,sending get request to file 8 from 9
+2020-04-10 14:36:08,MainThread,errorLogger,INFO,sending get request to file 9 from 9
+2020-04-10 14:36:10,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200404/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:36:10,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200407/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:36:10,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200402/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:36:10,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200405/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:36:10,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200220/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:36:10,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200401/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:36:10,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200406/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:36:10,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200408/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:36:22,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200403/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:36:27,MainThread,errorLogger,INFO,sending get request to file 1 from 1
+2020-04-10 14:36:28,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200409/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:36:28,MainThread,errorLogger,INFO,>>Quitting chromium
+2020-04-10 14:36:28,MainThread,errorLogger,INFO,>>End program
+2020-04-10 14:37:10,MainThread,errorLogger,INFO,>>Opening chromium in background
+2020-04-10 14:37:12,MainThread,errorLogger,INFO,>>Connecting to URL..waiting for response
+2020-04-10 14:37:20,MainThread,errorLogger,INFO,>>Checking for new links in URL
+2020-04-10 14:37:21,MainThread,errorLogger,INFO,>>Downloading data from links: 22 files
+2020-04-10 14:37:31,MainThread,errorLogger,INFO,sending get request to file 1 from 9
+2020-04-10 14:37:31,MainThread,errorLogger,INFO,sending get request to file 2 from 9
+2020-04-10 14:37:31,MainThread,errorLogger,INFO,sending get request to file 3 from 9
+2020-04-10 14:37:31,MainThread,errorLogger,INFO,sending get request to file 4 from 9
+2020-04-10 14:37:31,MainThread,errorLogger,INFO,sending get request to file 5 from 9
+2020-04-10 14:37:31,MainThread,errorLogger,INFO,sending get request to file 6 from 9
+2020-04-10 14:37:31,MainThread,errorLogger,INFO,sending get request to file 7 from 9
+2020-04-10 14:37:31,MainThread,errorLogger,INFO,sending get request to file 8 from 9
+2020-04-10 14:37:31,MainThread,errorLogger,INFO,sending get request to file 9 from 9
+2020-04-10 14:37:46,MainThread,errorLogger,INFO,sending get request to file 1 from 9
+2020-04-10 14:37:46,MainThread,errorLogger,INFO,sending get request to file 2 from 9
+2020-04-10 14:37:46,MainThread,errorLogger,INFO,sending get request to file 3 from 9
+2020-04-10 14:37:46,MainThread,errorLogger,INFO,sending get request to file 4 from 9
+2020-04-10 14:37:46,MainThread,errorLogger,INFO,sending get request to file 5 from 9
+2020-04-10 14:37:46,MainThread,errorLogger,INFO,sending get request to file 6 from 9
+2020-04-10 14:37:46,MainThread,errorLogger,INFO,sending get request to file 7 from 9
+2020-04-10 14:37:46,MainThread,errorLogger,INFO,sending get request to file 8 from 9
+2020-04-10 14:37:46,MainThread,errorLogger,INFO,sending get request to file 9 from 9
+2020-04-10 14:38:02,MainThread,errorLogger,INFO,sending get request to file 1 from 4
+2020-04-10 14:38:02,MainThread,errorLogger,INFO,sending get request to file 2 from 4
+2020-04-10 14:38:02,MainThread,errorLogger,INFO,sending get request to file 3 from 4
+2020-04-10 14:38:02,MainThread,errorLogger,INFO,sending get request to file 4 from 4
+2020-04-10 14:38:04,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200406/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:38:04,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200407/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:38:04,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200409/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:38:04,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200408/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:38:04,MainThread,errorLogger,INFO,>>Quitting chromium
+2020-04-10 14:38:04,MainThread,errorLogger,INFO,>>End program
+2020-04-10 14:43:12,MainThread,errorLogger,INFO,>>Opening chromium in background
+2020-04-10 14:43:14,MainThread,errorLogger,INFO,>>Connecting to URL..waiting for response
+2020-04-10 14:43:24,MainThread,errorLogger,INFO,>>Checking for new links in URL
+2020-04-10 14:43:25,MainThread,errorLogger,INFO,>>Downloading data from links: 4 files
+2020-04-10 14:50:43,MainThread,errorLogger,INFO,>>Opening chromium in background
+2020-04-10 14:50:45,MainThread,errorLogger,INFO,>>Connecting to URL..waiting for response
+2020-04-10 14:50:51,MainThread,errorLogger,INFO,>>Checking for new links in URL
+2020-04-10 14:50:53,MainThread,errorLogger,INFO,>>Downloading data from links: 4 files
+2020-04-10 14:50:53,MainThread,errorLogger,INFO,sending get request to file 1 from 4
+2020-04-10 14:50:53,MainThread,errorLogger,INFO,sending get request to file 2 from 4
+2020-04-10 14:50:53,MainThread,errorLogger,INFO,sending get request to file 3 from 4
+2020-04-10 14:50:53,MainThread,errorLogger,INFO,sending get request to file 4 from 4
+2020-04-10 14:51:05,MainThread,errorLogger,INFO,>>Quitting chromium
+2020-04-10 14:51:05,MainThread,errorLogger,INFO,>>End program
+2020-04-10 14:51:13,MainThread,errorLogger,INFO,>>Opening chromium in background
+2020-04-10 14:51:15,MainThread,errorLogger,INFO,>>Connecting to URL..waiting for response
+2020-04-10 14:51:23,MainThread,errorLogger,INFO,>>Checking for new links in URL
+2020-04-10 14:51:24,MainThread,errorLogger,INFO,>>Downloading data from links: 16 files
+2020-04-10 14:51:24,MainThread,errorLogger,INFO,sending get request to file 1 from 16
+2020-04-10 14:51:24,MainThread,errorLogger,INFO,sending get request to file 2 from 16
+2020-04-10 14:51:24,MainThread,errorLogger,INFO,sending get request to file 3 from 16
+2020-04-10 14:51:24,MainThread,errorLogger,INFO,sending get request to file 4 from 16
+2020-04-10 14:51:24,MainThread,errorLogger,INFO,sending get request to file 5 from 16
+2020-04-10 14:51:24,MainThread,errorLogger,INFO,sending get request to file 6 from 16
+2020-04-10 14:51:24,MainThread,errorLogger,INFO,sending get request to file 7 from 16
+2020-04-10 14:51:24,MainThread,errorLogger,INFO,sending get request to file 8 from 16
+2020-04-10 14:51:24,MainThread,errorLogger,INFO,sending get request to file 9 from 16
+2020-04-10 14:51:24,MainThread,errorLogger,INFO,sending get request to file 10 from 16
+2020-04-10 14:51:24,MainThread,errorLogger,INFO,sending get request to file 11 from 16
+2020-04-10 14:51:24,MainThread,errorLogger,INFO,sending get request to file 12 from 16
+2020-04-10 14:51:24,MainThread,errorLogger,INFO,sending get request to file 13 from 16
+2020-04-10 14:51:24,MainThread,errorLogger,INFO,sending get request to file 14 from 16
+2020-04-10 14:51:24,MainThread,errorLogger,INFO,sending get request to file 15 from 16
+2020-04-10 14:51:24,MainThread,errorLogger,INFO,sending get request to file 16 from 16
+2020-04-10 14:51:42,MainThread,errorLogger,INFO,>>Quitting chromium
+2020-04-10 14:51:42,MainThread,errorLogger,INFO,>>End program
+2020-04-10 14:51:54,MainThread,errorLogger,INFO,>>Opening chromium in background
+2020-04-10 14:51:56,MainThread,errorLogger,INFO,>>Connecting to URL..waiting for response
+2020-04-10 14:52:05,MainThread,errorLogger,INFO,>>Checking for new links in URL
+2020-04-10 14:52:06,MainThread,errorLogger,INFO,>>Downloading data from links: 25 files
+2020-04-10 14:52:06,MainThread,errorLogger,INFO,sending get request to file 1 from 25
+2020-04-10 14:52:06,MainThread,errorLogger,INFO,sending get request to file 2 from 25
+2020-04-10 14:52:06,MainThread,errorLogger,INFO,sending get request to file 3 from 25
+2020-04-10 14:52:06,MainThread,errorLogger,INFO,sending get request to file 4 from 25
+2020-04-10 14:52:06,MainThread,errorLogger,INFO,sending get request to file 5 from 25
+2020-04-10 14:52:06,MainThread,errorLogger,INFO,sending get request to file 6 from 25
+2020-04-10 14:52:06,MainThread,errorLogger,INFO,sending get request to file 7 from 25
+2020-04-10 14:52:06,MainThread,errorLogger,INFO,sending get request to file 8 from 25
+2020-04-10 14:52:06,MainThread,errorLogger,INFO,sending get request to file 9 from 25
+2020-04-10 14:52:06,MainThread,errorLogger,INFO,sending get request to file 10 from 25
+2020-04-10 14:52:06,MainThread,errorLogger,INFO,sending get request to file 11 from 25
+2020-04-10 14:52:06,MainThread,errorLogger,INFO,sending get request to file 12 from 25
+2020-04-10 14:52:06,MainThread,errorLogger,INFO,sending get request to file 13 from 25
+2020-04-10 14:52:06,MainThread,errorLogger,INFO,sending get request to file 14 from 25
+2020-04-10 14:52:06,MainThread,errorLogger,INFO,sending get request to file 15 from 25
+2020-04-10 14:52:06,MainThread,errorLogger,INFO,sending get request to file 16 from 25
+2020-04-10 14:52:06,MainThread,errorLogger,INFO,sending get request to file 17 from 25
+2020-04-10 14:52:06,MainThread,errorLogger,INFO,sending get request to file 18 from 25
+2020-04-10 14:52:06,MainThread,errorLogger,INFO,sending get request to file 19 from 25
+2020-04-10 14:52:06,MainThread,errorLogger,INFO,sending get request to file 20 from 25
+2020-04-10 14:52:06,MainThread,errorLogger,INFO,sending get request to file 21 from 25
+2020-04-10 14:52:06,MainThread,errorLogger,INFO,sending get request to file 22 from 25
+2020-04-10 14:52:06,MainThread,errorLogger,INFO,sending get request to file 23 from 25
+2020-04-10 14:52:06,MainThread,errorLogger,INFO,sending get request to file 24 from 25
+2020-04-10 14:52:06,MainThread,errorLogger,INFO,sending get request to file 25 from 25
+2020-04-10 14:52:14,MainThread,errorLogger,INFO,>>Quitting chromium
+2020-04-10 14:52:14,MainThread,errorLogger,INFO,>>End program
+2020-04-10 14:52:30,MainThread,errorLogger,INFO,>>Opening chromium in background
+2020-04-10 14:52:32,MainThread,errorLogger,INFO,>>Connecting to URL..waiting for response
+2020-04-10 14:52:43,MainThread,errorLogger,INFO,>>Checking for new links in URL
+2020-04-10 14:52:44,MainThread,errorLogger,INFO,>>Downloading data from links: 41 files
+2020-04-10 14:52:44,MainThread,errorLogger,INFO,sending get request to file 1 from 41
+2020-04-10 14:52:44,MainThread,errorLogger,INFO,sending get request to file 2 from 41
+2020-04-10 14:52:44,MainThread,errorLogger,INFO,sending get request to file 3 from 41
+2020-04-10 14:52:44,MainThread,errorLogger,INFO,sending get request to file 4 from 41
+2020-04-10 14:52:44,MainThread,errorLogger,INFO,sending get request to file 5 from 41
+2020-04-10 14:52:44,MainThread,errorLogger,INFO,sending get request to file 6 from 41
+2020-04-10 14:52:44,MainThread,errorLogger,INFO,sending get request to file 7 from 41
+2020-04-10 14:52:44,MainThread,errorLogger,INFO,sending get request to file 8 from 41
+2020-04-10 14:52:44,MainThread,errorLogger,INFO,sending get request to file 9 from 41
+2020-04-10 14:52:44,MainThread,errorLogger,INFO,sending get request to file 10 from 41
+2020-04-10 14:52:44,MainThread,errorLogger,INFO,sending get request to file 11 from 41
+2020-04-10 14:52:44,MainThread,errorLogger,INFO,sending get request to file 12 from 41
+2020-04-10 14:52:44,MainThread,errorLogger,INFO,sending get request to file 13 from 41
+2020-04-10 14:52:44,MainThread,errorLogger,INFO,sending get request to file 14 from 41
+2020-04-10 14:52:44,MainThread,errorLogger,INFO,sending get request to file 15 from 41
+2020-04-10 14:52:44,MainThread,errorLogger,INFO,sending get request to file 16 from 41
+2020-04-10 14:52:44,MainThread,errorLogger,INFO,sending get request to file 17 from 41
+2020-04-10 14:52:44,MainThread,errorLogger,INFO,sending get request to file 18 from 41
+2020-04-10 14:52:44,MainThread,errorLogger,INFO,sending get request to file 19 from 41
+2020-04-10 14:52:44,MainThread,errorLogger,INFO,sending get request to file 20 from 41
+2020-04-10 14:52:44,MainThread,errorLogger,INFO,sending get request to file 21 from 41
+2020-04-10 14:52:44,MainThread,errorLogger,INFO,sending get request to file 22 from 41
+2020-04-10 14:52:44,MainThread,errorLogger,INFO,sending get request to file 23 from 41
+2020-04-10 14:52:44,MainThread,errorLogger,INFO,sending get request to file 24 from 41
+2020-04-10 14:52:44,MainThread,errorLogger,INFO,sending get request to file 25 from 41
+2020-04-10 14:52:44,MainThread,errorLogger,INFO,sending get request to file 26 from 41
+2020-04-10 14:52:44,MainThread,errorLogger,INFO,sending get request to file 27 from 41
+2020-04-10 14:52:44,MainThread,errorLogger,INFO,sending get request to file 28 from 41
+2020-04-10 14:52:44,MainThread,errorLogger,INFO,sending get request to file 29 from 41
+2020-04-10 14:52:44,MainThread,errorLogger,INFO,sending get request to file 30 from 41
+2020-04-10 14:52:44,MainThread,errorLogger,INFO,sending get request to file 31 from 41
+2020-04-10 14:52:44,MainThread,errorLogger,INFO,sending get request to file 32 from 41
+2020-04-10 14:52:44,MainThread,errorLogger,INFO,sending get request to file 33 from 41
+2020-04-10 14:52:44,MainThread,errorLogger,INFO,sending get request to file 34 from 41
+2020-04-10 14:52:44,MainThread,errorLogger,INFO,sending get request to file 35 from 41
+2020-04-10 14:52:44,MainThread,errorLogger,INFO,sending get request to file 36 from 41
+2020-04-10 14:52:44,MainThread,errorLogger,INFO,sending get request to file 37 from 41
+2020-04-10 14:52:44,MainThread,errorLogger,INFO,sending get request to file 38 from 41
+2020-04-10 14:52:44,MainThread,errorLogger,INFO,sending get request to file 39 from 41
+2020-04-10 14:52:44,MainThread,errorLogger,INFO,sending get request to file 40 from 41
+2020-04-10 14:52:44,MainThread,errorLogger,INFO,sending get request to file 41 from 41
+2020-04-10 14:52:46,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200224/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:52:46,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200216/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:52:46,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200217/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:52:46,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200218/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:52:46,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200220/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:52:46,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200221/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:52:46,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200222/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:52:46,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200223/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:52:47,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200229/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:52:48,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200214/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:52:48,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200205/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:52:48,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200206/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:52:48,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200210/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:52:48,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200403/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:52:48,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200401/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:52:49,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200201/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:52:52,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200228/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:52:52,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200219/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:52:52,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200225/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:52:52,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200226/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:52:52,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200227/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:52:52,MainThread,errorLogger,INFO,>>Quitting chromium
+2020-04-10 14:52:52,MainThread,errorLogger,INFO,>>End program
+2020-04-10 14:53:13,MainThread,errorLogger,INFO,>>Opening chromium in background
+2020-04-10 14:53:15,MainThread,errorLogger,INFO,>>Connecting to URL..waiting for response
+2020-04-10 14:53:23,MainThread,errorLogger,INFO,>>Checking for new links in URL
+2020-04-10 14:53:25,MainThread,errorLogger,INFO,>>Downloading data from links: 35 files
+2020-04-10 14:53:25,MainThread,errorLogger,INFO,sending get request to file 1 from 35
+2020-04-10 14:53:25,MainThread,errorLogger,INFO,sending get request to file 2 from 35
+2020-04-10 14:53:25,MainThread,errorLogger,INFO,sending get request to file 3 from 35
+2020-04-10 14:53:25,MainThread,errorLogger,INFO,sending get request to file 4 from 35
+2020-04-10 14:53:25,MainThread,errorLogger,INFO,sending get request to file 5 from 35
+2020-04-10 14:53:25,MainThread,errorLogger,INFO,sending get request to file 6 from 35
+2020-04-10 14:53:25,MainThread,errorLogger,INFO,sending get request to file 7 from 35
+2020-04-10 14:53:25,MainThread,errorLogger,INFO,sending get request to file 8 from 35
+2020-04-10 14:53:25,MainThread,errorLogger,INFO,sending get request to file 9 from 35
+2020-04-10 14:53:25,MainThread,errorLogger,INFO,sending get request to file 10 from 35
+2020-04-10 14:53:25,MainThread,errorLogger,INFO,sending get request to file 11 from 35
+2020-04-10 14:53:25,MainThread,errorLogger,INFO,sending get request to file 12 from 35
+2020-04-10 14:53:25,MainThread,errorLogger,INFO,sending get request to file 13 from 35
+2020-04-10 14:53:25,MainThread,errorLogger,INFO,sending get request to file 14 from 35
+2020-04-10 14:53:25,MainThread,errorLogger,INFO,sending get request to file 15 from 35
+2020-04-10 14:53:25,MainThread,errorLogger,INFO,sending get request to file 16 from 35
+2020-04-10 14:53:25,MainThread,errorLogger,INFO,sending get request to file 17 from 35
+2020-04-10 14:53:25,MainThread,errorLogger,INFO,sending get request to file 18 from 35
+2020-04-10 14:53:25,MainThread,errorLogger,INFO,sending get request to file 19 from 35
+2020-04-10 14:53:25,MainThread,errorLogger,INFO,sending get request to file 20 from 35
+2020-04-10 14:53:25,MainThread,errorLogger,INFO,sending get request to file 21 from 35
+2020-04-10 14:53:25,MainThread,errorLogger,INFO,sending get request to file 22 from 35
+2020-04-10 14:53:25,MainThread,errorLogger,INFO,sending get request to file 23 from 35
+2020-04-10 14:53:25,MainThread,errorLogger,INFO,sending get request to file 24 from 35
+2020-04-10 14:53:25,MainThread,errorLogger,INFO,sending get request to file 25 from 35
+2020-04-10 14:53:25,MainThread,errorLogger,INFO,sending get request to file 26 from 35
+2020-04-10 14:53:25,MainThread,errorLogger,INFO,sending get request to file 27 from 35
+2020-04-10 14:53:25,MainThread,errorLogger,INFO,sending get request to file 28 from 35
+2020-04-10 14:53:25,MainThread,errorLogger,INFO,sending get request to file 29 from 35
+2020-04-10 14:53:25,MainThread,errorLogger,INFO,sending get request to file 30 from 35
+2020-04-10 14:53:25,MainThread,errorLogger,INFO,sending get request to file 31 from 35
+2020-04-10 14:53:25,MainThread,errorLogger,INFO,sending get request to file 32 from 35
+2020-04-10 14:53:25,MainThread,errorLogger,INFO,sending get request to file 33 from 35
+2020-04-10 14:53:25,MainThread,errorLogger,INFO,sending get request to file 34 from 35
+2020-04-10 14:53:25,MainThread,errorLogger,INFO,sending get request to file 35 from 35
+2020-04-10 14:53:26,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200223/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:53:26,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200221/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:53:26,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200222/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:53:27,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200224/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:53:29,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200407/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:53:29,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200406/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:53:29,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200214/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:53:29,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200205/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:53:30,MainThread,errorLogger,ERROR,aiohttp exception for https://web.archive.org/web/20200206/https://www.worldometers.info/coronavirus/ [None]: None
+2020-04-10 14:53:30,MainThread,errorLogger,INFO,>>Quitting chromium
+2020-04-10 14:53:30,MainThread,errorLogger,INFO,>>End program
+2020-04-10 14:53:51,MainThread,errorLogger,INFO,>>Opening chromium in background
+2020-04-10 14:53:53,MainThread,errorLogger,INFO,>>Connecting to URL..waiting for response
+2020-04-10 14:54:02,MainThread,errorLogger,INFO,>>Checking for new links in URL
+2020-04-10 14:54:03,MainThread,errorLogger,INFO,>>Downloading data from links: 44 files
+2020-04-10 14:54:03,MainThread,errorLogger,INFO,sending get request to file 1 from 44
+2020-04-10 14:54:03,MainThread,errorLogger,INFO,sending get request to file 2 from 44
+2020-04-10 14:54:03,MainThread,errorLogger,INFO,sending get request to file 3 from 44
+2020-04-10 14:54:03,MainThread,errorLogger,INFO,sending get request to file 4 from 44
+2020-04-10 14:54:03,MainThread,errorLogger,INFO,sending get request to file 5 from 44
+2020-04-10 14:54:03,MainThread,errorLogger,INFO,sending get request to file 6 from 44
+2020-04-10 14:54:03,MainThread,errorLogger,INFO,sending get request to file 7 from 44
+2020-04-10 14:54:03,MainThread,errorLogger,INFO,sending get request to file 8 from 44
+2020-04-10 14:54:03,MainThread,errorLogger,INFO,sending get request to file 9 from 44
+2020-04-10 14:54:03,MainThread,errorLogger,INFO,sending get request to file 10 from 44
+2020-04-10 14:54:03,MainThread,errorLogger,INFO,sending get request to file 11 from 44
+2020-04-10 14:54:03,MainThread,errorLogger,INFO,sending get request to file 12 from 44
+2020-04-10 14:54:03,MainThread,errorLogger,INFO,sending get request to file 13 from 44
+2020-04-10 14:54:03,MainThread,errorLogger,INFO,sending get request to file 14 from 44
+2020-04-10 14:54:03,MainThread,errorLogger,INFO,sending get request to file 15 from 44
+2020-04-10 14:54:03,MainThread,errorLogger,INFO,sending get request to file 16 from 44
+2020-04-10 14:54:03,MainThread,errorLogger,INFO,sending get request to file 17 from 44
+2020-04-10 14:54:03,MainThread,errorLogger,INFO,sending get request to file 18 from 44
+2020-04-10 14:54:03,MainThread,errorLogger,INFO,sending get request to file 19 from 44
+2020-04-10 14:54:03,MainThread,errorLogger,INFO,sending get request to file 20 from 44
+2020-04-10 14:54:03,MainThread,errorLogger,INFO,sending get request to file 21 from 44
+2020-04-10 14:54:03,MainThread,errorLogger,INFO,sending get request to file 22 from 44
+2020-04-10 14:54:03,MainThread,errorLogger,INFO,sending get request to file 23 from 44
+2020-04-10 14:54:03,MainThread,errorLogger,INFO,sending get request to file 24 from 44
+2020-04-10 14:54:03,MainThread,errorLogger,INFO,sending get request to file 25 from 44
+2020-04-10 14:54:03,MainThread,errorLogger,INFO,sending get request to file 26 from 44
+2020-04-10 14:54:03,MainThread,errorLogger,INFO,sending get request to file 27 from 44
+2020-04-10 14:54:03,MainThread,errorLogger,INFO,sending get request to file 28 from 44
+2020-04-10 14:54:03,MainThread,errorLogger,INFO,sending get request to file 29 from 44
+2020-04-10 14:54:03,MainThread,errorLogger,INFO,sending get request to file 30 from 44
+2020-04-10 14:54:03,MainThread,errorLogger,INFO,sending get request to file 31 from 44
+2020-04-10 14:54:03,MainThread,errorLogger,INFO,sending get request to file 32 from 44
+2020-04-10 14:54:03,MainThread,errorLogger,INFO,sending get request to file 33 from 44
+2020-04-10 14:54:03,MainThread,errorLogger,INFO,sending get request to file 34 from 44
+2020-04-10 14:54:03,MainThread,errorLogger,INFO,sending get request to file 35 from 44
+2020-04-10 14:54:03,MainThread,errorLogger,INFO,sending get request to file 36 from 44
+2020-04-10 14:54:03,MainThread,errorLogger,INFO,sending get request to file 37 from 44
+2020-04-10 14:54:03,MainThread,errorLogger,INFO,sending get request to file 38 from 44
+2020-04-10 14:54:03,MainThread,errorLogger,INFO,sending get request to file 39 from 44
+2020-04-10 14:54:03,MainThread,errorLogger,INFO,sending get request to file 40 from 44
+2020-04-10 14:54:03,MainThread,errorLogger,INFO,sending get request to file 41 from 44
+2020-04-10 14:54:03,MainThread,errorLogger,INFO,sending get request to file 42 from 44
+2020-04-10 14:54:03,MainThread,errorLogger,INFO,sending get request to file 43 from 44
+2020-04-10 14:54:03,MainThread,errorLogger,INFO,sending get request to file 44 from 44
+2020-04-10 14:54:13,MainThread,errorLogger,INFO,>>Quitting chromium
+2020-04-10 14:54:13,MainThread,errorLogger,INFO,>>End program
