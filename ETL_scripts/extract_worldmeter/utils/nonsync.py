@@ -53,8 +53,7 @@ async def to_file(url,session) -> None:
 
 async def bulk_crawl_and_write( urls: list, **kwargs) -> None:
     """Crawl & write concurrently to `file` for multiple `urls`."""
-    conn = aiohttp.TCPConnector(limit=5)
-    urls_len = len(urls)
+    conn = aiohttp.TCPConnector(limit=10)
     async with ClientSession(connector=conn) as session:
         tasks = []
         for i,url in enumerate(urls):
