@@ -53,7 +53,7 @@ async def to_file(url,session) -> None:
 
 async def bulk_crawl_and_write( urls: list, **kwargs) -> None:
     """Crawl & write concurrently to `file` for multiple `urls`."""
-    conn = aiohttp.TCPConnector(limit=10)
+    conn = aiohttp.TCPConnector(limit=5)
     urls_len = len(urls)
     async with ClientSession(connector=conn) as session:
         tasks = []
@@ -64,7 +64,6 @@ async def bulk_crawl_and_write( urls: list, **kwargs) -> None:
         await asyncio.gather(*tasks)
 
 def main(urls):
-    logger.info(f'Downloading {urls.__len__()} files')
     s = time.perf_counter()
     asyncio.run(bulk_crawl_and_write(urls=urls))
     elapsed = time.perf_counter() - s
