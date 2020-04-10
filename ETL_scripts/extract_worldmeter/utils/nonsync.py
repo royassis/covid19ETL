@@ -29,12 +29,12 @@ async def to_file(url,session) -> None:
             getattr(e, "status", None),
             getattr(e, "message", None),
         )
-        return None
+        return url
     except Exception as e:
         logger.exception(
             "Non-aiohttp exception occured:  %s", getattr(e, "__dict__", {})
         )
-        return None
+        return url
 
     else:
         container = pd.read_html(html, match=READ_HTML_MATCH_PARAM)
@@ -60,11 +60,18 @@ async def bulk_crawl_and_write( urls: list, **kwargs) -> None:
             tasks.append(
                 to_file(url=url, session=session, **kwargs)
             )
-        await asyncio.gather(*tasks)
+        errors = await asyncio.gather(*tasks)
+        return errors
 
 def main(urls):
     s = time.perf_counter()
-    asyncio.run(bulk_crawl_and_write(urls=urls))
+    count = 0
+    max_count = 3
+    while urls and count < max_count:
+        urls = asyncio.run(bulk_crawl_and_write(urls=urls))
+        urls = [url for url in urls if url]
+        count +=1
+        print(f'Some errors were met, retrying {count+1} from {max_count}')
     elapsed = time.perf_counter() - s
     print(f"{__file__} executed in {elapsed:0.2f} seconds.")
 
