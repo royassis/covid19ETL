@@ -37,19 +37,21 @@ async def to_file(url,session) -> None:
         return url
 
     else:
-        container = pd.read_html(html, match=READ_HTML_MATCH_PARAM)
-        df = container[-1]
-        df['ref'] = url
-        date_str = re.search('\d{8}', url).group()
-        date_obj = datetime.strptime(date_str, '%Y%m%d')
-        df['date'] = date_obj
+        await to_pd(html,url)
 
-        date_repr_to_file = date_obj.strftime('%b-%d-%Y')
+async def to_pd(html,url):
+    container = pd.read_html(html, match=READ_HTML_MATCH_PARAM)
+    df = container[-1]
+    df['ref'] = url
+    date_str = re.search('\d{8}', url).group()
+    date_obj = datetime.strptime(date_str, '%Y%m%d')
+    df['date'] = date_obj
 
-        outfile = date_repr_to_file + '.csv'
-        outpath = os.path.join(OUTPUT_PATH, outfile)
-        df.to_csv(outpath)
+    date_repr_to_file = date_obj.strftime('%b-%d-%Y')
 
+    outfile = date_repr_to_file + '.csv'
+    outpath = os.path.join(OUTPUT_PATH, outfile)
+    df.to_csv(outpath)
 
 async def bulk_crawl_and_write( urls: list, **kwargs) -> None:
     """Crawl & write concurrently to `file` for multiple `urls`."""
@@ -68,10 +70,12 @@ def main(urls):
     count = 0
     max_count = 3
     while urls and count < max_count:
-        urls = asyncio.run(bulk_crawl_and_write(urls=urls))
-        urls = [url for url in urls if url]
+        results = asyncio.run(bulk_crawl_and_write(urls=urls))
+        urls = [element for element in results if element]
         count +=1
-        print(f'Some errors were met, retrying {count+1} from {max_count}')
+        if urls.__len__() > 0:
+            logger.info(f'Some errors were met, retrying {count} from {max_count}')
+
     elapsed = time.perf_counter() - s
     print(f"{__file__} executed in {elapsed:0.2f} seconds.")
 
