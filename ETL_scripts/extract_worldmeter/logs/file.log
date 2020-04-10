@@ -5403,3 +5403,27 @@ aiohttp.client_exceptions.ClientConnectorError: Cannot connect to host web.archi
 2020-04-10 23:20:21,MainThread,errorLogger,INFO,Got response [200] for URL: https://web.archive.org/web/20200208/https://www.worldometers.info/coronavirus/
 2020-04-10 23:20:21,MainThread,errorLogger,INFO,>>Quitting chromium
 2020-04-10 23:20:21,MainThread,errorLogger,INFO,>>End program
+2020-04-10 23:26:14,MainThread,errorLogger,INFO,>>Opening chromium in background
+2020-04-10 23:26:16,MainThread,errorLogger,INFO,>>Connecting to URL..waiting for response
+2020-04-10 23:26:25,MainThread,errorLogger,INFO,>>Checking for new links in URL
+2020-04-10 23:26:27,MainThread,errorLogger,INFO,>>Downloading data from links: 18 files
+2020-04-10 23:26:28,MainThread,errorLogger,INFO,Got response [200] for URL: https://web.archive.org/web/20200202/https://www.worldometers.info/coronavirus/
+2020-04-10 23:26:28,MainThread,errorLogger,INFO,Got response [200] for URL: https://web.archive.org/web/20200203/https://www.worldometers.info/coronavirus/
+2020-04-10 23:26:28,MainThread,errorLogger,INFO,Got response [200] for URL: https://web.archive.org/web/20200207/https://www.worldometers.info/coronavirus/
+2020-04-10 23:26:28,MainThread,errorLogger,INFO,Got response [200] for URL: https://web.archive.org/web/20200208/https://www.worldometers.info/coronavirus/
+2020-04-10 23:26:29,MainThread,errorLogger,INFO,Got response [200] for URL: https://web.archive.org/web/20200205/https://www.worldometers.info/coronavirus/
+2020-04-10 23:26:29,MainThread,errorLogger,INFO,Got response [200] for URL: https://web.archive.org/web/20200204/https://www.worldometers.info/coronavirus/
+2020-04-10 23:26:31,MainThread,errorLogger,INFO,Got response [200] for URL: https://web.archive.org/web/20200206/https://www.worldometers.info/coronavirus/
+2020-04-10 23:26:31,MainThread,errorLogger,INFO,Got response [200] for URL: https://web.archive.org/web/20200403/https://www.worldometers.info/coronavirus/
+2020-04-10 23:26:32,MainThread,errorLogger,INFO,Got response [200] for URL: https://web.archive.org/web/20200201/https://www.worldometers.info/coronavirus/
+2020-04-10 23:26:33,MainThread,errorLogger,INFO,Got response [200] for URL: https://web.archive.org/web/20200406/https://www.worldometers.info/coronavirus/
+2020-04-10 23:26:33,MainThread,errorLogger,INFO,Got response [200] for URL: https://web.archive.org/web/20200407/https://www.worldometers.info/coronavirus/
+2020-04-10 23:26:33,MainThread,errorLogger,INFO,Got response [200] for URL: https://web.archive.org/web/20200405/https://www.worldometers.info/coronavirus/
+2020-04-10 23:26:33,MainThread,errorLogger,INFO,Got response [200] for URL: https://web.archive.org/web/20200408/https://www.worldometers.info/coronavirus/
+2020-04-10 23:26:33,MainThread,errorLogger,INFO,Got response [200] for URL: https://web.archive.org/web/20200210/https://www.worldometers.info/coronavirus/
+2020-04-10 23:26:34,MainThread,errorLogger,INFO,Got response [200] for URL: https://web.archive.org/web/20200402/https://www.worldometers.info/coronavirus/
+2020-04-10 23:26:35,MainThread,errorLogger,INFO,Got response [200] for URL: https://web.archive.org/web/20200401/https://www.worldometers.info/coronavirus/
+2020-04-10 23:26:36,MainThread,errorLogger,INFO,Got response [200] for URL: https://web.archive.org/web/20200409/https://www.worldometers.info/coronavirus/
+2020-04-10 23:26:38,MainThread,errorLogger,INFO,Got response [200] for URL: https://web.archive.org/web/20200404/https://www.worldometers.info/coronavirus/
+2020-04-10 23:26:39,MainThread,errorLogger,INFO,>>Quitting chromium
+2020-04-10 23:26:39,MainThread,errorLogger,INFO,>>End program
