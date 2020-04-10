@@ -9,7 +9,7 @@ current_dir = os.path.dirname(__file__)
 
 
 # Paths and Dirs
-OUTPUT_PATH = r'D:\PycharmProjects\scrap_corona_history\DW\raw_data\worldmeter'
+OUTPUT_PATH = r'D:\PycharmProjects\covid19ETL\DW\raw_data\worldmeter'
 SITE_URL = 'https://www.worldometers.info/coronavirus/'
 
 RESOURCE_DIR = os.path.join(current_dir,'resources')

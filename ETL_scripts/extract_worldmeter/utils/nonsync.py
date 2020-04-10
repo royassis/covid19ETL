@@ -14,7 +14,7 @@ async def fetch_html(url: str, session: ClientSession, **kwargs) -> str:
 
 async def to_file(url,session,i,urls_len) -> None:
 
-    logger.info(f'fecting file {i} from {urls_len}')
+    logger.info(f'sending get request to file {i+1} from {urls_len}')
     html = await fetch_html(url,session)
 
     container = pd.read_html(html, match=READ_HTML_MATCH_PARAM)

@@ -56,3 +56,43 @@
 2020-04-10 14:03:02,MainThread,errorLogger,INFO,>>No new links
 2020-04-10 14:03:02,MainThread,errorLogger,INFO,>>Quitting chromium
 2020-04-10 14:03:02,MainThread,errorLogger,INFO,>>End program
+2020-04-10 14:04:19,MainThread,errorLogger,INFO,>>Opening chromium in background
+2020-04-10 14:04:21,MainThread,errorLogger,INFO,>>Connecting to URL..waiting for response
+2020-04-10 14:04:46,MainThread,errorLogger,INFO,>>Checking for new links in URL
+2020-04-10 14:04:47,MainThread,errorLogger,INFO,>>No new links
+2020-04-10 14:04:47,MainThread,errorLogger,INFO,>>Quitting chromium
+2020-04-10 14:04:47,MainThread,errorLogger,INFO,>>End program
+2020-04-10 14:05:21,MainThread,errorLogger,INFO,>>Opening chromium in background
+2020-04-10 14:05:23,MainThread,errorLogger,INFO,>>Connecting to URL..waiting for response
+2020-04-10 14:05:30,MainThread,errorLogger,INFO,>>Checking for new links in URL
+2020-04-10 14:09:39,MainThread,errorLogger,INFO,>>Opening chromium in background
+2020-04-10 14:09:41,MainThread,errorLogger,INFO,>>Connecting to URL..waiting for response
+2020-04-10 14:09:48,MainThread,errorLogger,INFO,>>Checking for new links in URL
+2020-04-10 14:09:49,MainThread,errorLogger,INFO,>>Downloading data from links: 3 files
+2020-04-10 14:09:49,MainThread,errorLogger,INFO,fecting file 0 from 3
+2020-04-10 14:09:49,MainThread,errorLogger,INFO,fecting file 1 from 3
+2020-04-10 14:09:49,MainThread,errorLogger,INFO,fecting file 2 from 3
+2020-04-10 14:09:56,MainThread,errorLogger,INFO,>>Quitting chromium
+2020-04-10 14:09:56,MainThread,errorLogger,INFO,>>End program
+2020-04-10 14:10:41,MainThread,errorLogger,INFO,>>Opening chromium in background
+2020-04-10 14:10:43,MainThread,errorLogger,INFO,>>Connecting to URL..waiting for response
+2020-04-10 14:10:50,MainThread,errorLogger,INFO,>>Checking for new links in URL
+2020-04-10 14:10:51,MainThread,errorLogger,INFO,>>Downloading data from links: 16 files
+2020-04-10 14:10:51,MainThread,errorLogger,INFO,fecting file 1 from 16
+2020-04-10 14:10:51,MainThread,errorLogger,INFO,fecting file 2 from 16
+2020-04-10 14:10:51,MainThread,errorLogger,INFO,fecting file 3 from 16
+2020-04-10 14:10:51,MainThread,errorLogger,INFO,fecting file 4 from 16
+2020-04-10 14:10:51,MainThread,errorLogger,INFO,fecting file 5 from 16
+2020-04-10 14:10:51,MainThread,errorLogger,INFO,fecting file 6 from 16
+2020-04-10 14:10:51,MainThread,errorLogger,INFO,fecting file 7 from 16
+2020-04-10 14:10:51,MainThread,errorLogger,INFO,fecting file 8 from 16
+2020-04-10 14:10:51,MainThread,errorLogger,INFO,fecting file 9 from 16
+2020-04-10 14:10:51,MainThread,errorLogger,INFO,fecting file 10 from 16
+2020-04-10 14:10:51,MainThread,errorLogger,INFO,fecting file 11 from 16
+2020-04-10 14:10:51,MainThread,errorLogger,INFO,fecting file 12 from 16
+2020-04-10 14:10:51,MainThread,errorLogger,INFO,fecting file 13 from 16
+2020-04-10 14:10:51,MainThread,errorLogger,INFO,fecting file 14 from 16
+2020-04-10 14:10:51,MainThread,errorLogger,INFO,fecting file 15 from 16
+2020-04-10 14:10:51,MainThread,errorLogger,INFO,fecting file 16 from 16
+2020-04-10 14:11:00,MainThread,errorLogger,INFO,>>Quitting chromium
+2020-04-10 14:11:00,MainThread,errorLogger,INFO,>>End program
