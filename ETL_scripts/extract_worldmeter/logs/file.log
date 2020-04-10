@@ -38,3 +38,15 @@
 2020-04-10 10:03:35,MainThread,errorLogger,INFO,Downloading file 1 from 1: https://web.archive.org/web/20200409/https://www.worldometers.info/coronavirus/
 2020-04-10 10:03:44,MainThread,errorLogger,INFO,>>Quitting chromium
 2020-04-10 10:03:44,MainThread,errorLogger,INFO,>>End program
+2020-04-10 13:56:04,MainThread,errorLogger,INFO,>>Opening chromium in background
+2020-04-10 13:56:06,MainThread,errorLogger,INFO,>>Connecting to URL..waiting for response
+2020-04-10 13:56:13,MainThread,errorLogger,INFO,>>Checking for new links in URL
+2020-04-10 13:56:14,MainThread,errorLogger,INFO,>>No new links
+2020-04-10 13:56:14,MainThread,errorLogger,INFO,>>Quitting chromium
+2020-04-10 13:56:14,MainThread,errorLogger,INFO,>>End program
+2020-04-10 13:57:45,MainThread,errorLogger,INFO,>>Opening chromium in background
+2020-04-10 13:57:47,MainThread,errorLogger,INFO,>>Connecting to URL..waiting for response
+2020-04-10 13:57:53,MainThread,errorLogger,INFO,>>Checking for new links in URL
+2020-04-10 13:57:55,MainThread,errorLogger,INFO,>>No new links
+2020-04-10 13:57:55,MainThread,errorLogger,INFO,>>Quitting chromium
+2020-04-10 13:57:55,MainThread,errorLogger,INFO,>>End program
