@@ -1,0 +1,40 @@
+2020-04-09 12:34:12,740 - ETL_scripts.extract_worldmeter.utils.logger - ERROR - This is an error
+2020-04-09 17:51:16,MainThread,errorLogger,INFO,>>Opening chromium in background
+2020-04-09 17:51:18,MainThread,errorLogger,INFO,>>Connecting to URL..waiting for response
+2020-04-09 17:52:14,MainThread,errorLogger,INFO,Timed out waiting for page to load
+2020-04-09 17:52:16,MainThread,errorLogger,INFO,>>Checking for new links in URL
+2020-04-09 18:04:34,MainThread,errorLogger,INFO,>>Opening chromium in background
+2020-04-09 18:04:36,MainThread,errorLogger,INFO,>>Connecting to URL..waiting for response
+2020-04-09 18:05:16,MainThread,errorLogger,INFO,>>Opening chromium in background
+2020-04-09 18:05:18,MainThread,errorLogger,INFO,>>Connecting to URL..waiting for response
+2020-04-09 18:05:56,MainThread,errorLogger,INFO,>>Opening chromium in background
+2020-04-09 18:05:58,MainThread,errorLogger,INFO,>>Connecting to URL..waiting for response
+2020-04-09 18:07:48,MainThread,errorLogger,INFO,>>Opening chromium in background
+2020-04-09 18:07:50,MainThread,errorLogger,INFO,>>Connecting to URL..waiting for response
+2020-04-09 18:07:57,MainThread,errorLogger,INFO,>>Opening chromium in background
+2020-04-09 18:08:00,MainThread,errorLogger,INFO,>>Connecting to URL..waiting for response
+2020-04-09 18:08:31,MainThread,errorLogger,INFO,>>Opening chromium in background
+2020-04-09 18:11:08,MainThread,errorLogger,INFO,>>Opening chromium in background
+2020-04-09 18:11:10,MainThread,errorLogger,INFO,>>Connecting to URL..waiting for response
+2020-04-09 18:12:06,MainThread,errorLogger,INFO,Timed out waiting for page to load
+2020-04-09 18:12:09,MainThread,errorLogger,INFO,>>Checking for new links in URL
+2020-04-09 18:16:37,MainThread,errorLogger,INFO,>>Opening chromium in background
+2020-04-09 18:16:40,MainThread,errorLogger,INFO,>>Connecting to URL..waiting for response
+2020-04-09 18:17:37,MainThread,errorLogger,INFO,Timed out waiting for page to load
+2020-04-09 18:18:15,MainThread,errorLogger,INFO,>>Opening chromium in background
+2020-04-09 18:18:17,MainThread,errorLogger,INFO,>>Connecting to URL..waiting for response
+2020-04-09 18:19:27,MainThread,errorLogger,INFO,>>Opening chromium in background
+2020-04-09 18:19:30,MainThread,errorLogger,INFO,>>Connecting to URL..waiting for response
+2020-04-09 18:20:29,MainThread,errorLogger,INFO,>>Opening chromium in background
+2020-04-09 18:20:31,MainThread,errorLogger,INFO,>>Connecting to URL..waiting for response
+2020-04-09 18:20:46,MainThread,errorLogger,INFO,>>Checking for new links in URL
+2020-04-09 18:20:47,MainThread,errorLogger,INFO,>>No new links
+2020-04-09 18:20:47,MainThread,errorLogger,INFO,>>Quitting chromium
+2020-04-09 18:20:47,MainThread,errorLogger,INFO,>>End program
+2020-04-10 10:03:21,MainThread,errorLogger,INFO,>>Opening chromium in background
+2020-04-10 10:03:24,MainThread,errorLogger,INFO,>>Connecting to URL..waiting for response
+2020-04-10 10:03:34,MainThread,errorLogger,INFO,>>Checking for new links in URL
+2020-04-10 10:03:35,MainThread,errorLogger,INFO,>>Downloading data from links: 1 files
+2020-04-10 10:03:35,MainThread,errorLogger,INFO,Downloading file 1 from 1: https://web.archive.org/web/20200409/https://www.worldometers.info/coronavirus/
+2020-04-10 10:03:44,MainThread,errorLogger,INFO,>>Quitting chromium
+2020-04-10 10:03:44,MainThread,errorLogger,INFO,>>End program
