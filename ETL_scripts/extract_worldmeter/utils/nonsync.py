@@ -83,6 +83,7 @@ def main(urls):
 
     elapsed = time.perf_counter() - s
     print(f"{__file__} executed in {elapsed:0.2f} seconds.")
+    return all_dfs
 
 if __name__ == '__main__':
     main()

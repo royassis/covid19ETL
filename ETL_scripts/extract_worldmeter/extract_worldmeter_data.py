@@ -27,7 +27,7 @@ def main():
     # Iterate over hrefs and download tables from site
     if new_urls:
         logger.info(f'>>Downloading data from links: {len(new_urls)} files')
-        download_async(new_urls)
+        dfs = download_async(new_urls)
     else:
         logger.info('>>No new links')
 
