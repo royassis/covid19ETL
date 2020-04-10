@@ -1,5 +1,5 @@
 from ETL_scripts.extract_worldmeter.utils.functions import *
-from ETL_scripts.extract_worldmeter.utils.nonsync import main as nonsync
+from ETL_scripts.extract_worldmeter.utils.nonsync import main as download_async
 from selenium import webdriver
 
 def main():
@@ -27,7 +27,7 @@ def main():
     # Iterate over hrefs and download tables from site
     if new_urls:
         logger.info(f'>>Downloading data from links: {len(new_urls)} files')
-        nonsync(new_urls)
+        download_async(new_urls)
     else:
         logger.info('>>No new links')
 

@@ -50,3 +50,9 @@
 2020-04-10 13:57:55,MainThread,errorLogger,INFO,>>No new links
 2020-04-10 13:57:55,MainThread,errorLogger,INFO,>>Quitting chromium
 2020-04-10 13:57:55,MainThread,errorLogger,INFO,>>End program
+2020-04-10 14:02:50,MainThread,errorLogger,INFO,>>Opening chromium in background
+2020-04-10 14:02:52,MainThread,errorLogger,INFO,>>Connecting to URL..waiting for response
+2020-04-10 14:03:01,MainThread,errorLogger,INFO,>>Checking for new links in URL
+2020-04-10 14:03:02,MainThread,errorLogger,INFO,>>No new links
+2020-04-10 14:03:02,MainThread,errorLogger,INFO,>>Quitting chromium
+2020-04-10 14:03:02,MainThread,errorLogger,INFO,>>End program
