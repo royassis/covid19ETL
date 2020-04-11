@@ -3,6 +3,7 @@ import urllib.request
 import pandas as pd
 import json
 import os
+from collections import namedtuple
 
 def main(outdir=None):
     print(__file__, 'is running')
@@ -23,7 +24,7 @@ def main(outdir=None):
 
         outfile = ".".join([entry['name'], 'csv'])
         # outpath = os.path.join(GOV_DATA_PATH, outfile)
-        dfs_files.append([data,outfile])
+        dfs_files.append([data,entry['name']])
 
     if outdir:
         for df_file in dfs_files:
@@ -34,7 +35,10 @@ def main(outdir=None):
         retval = None
 
     else:
-        retval = dfs_files
+        Container = namedtuple('dfs', 'isolations lab_tests')
+        continer = Container(dfs_files[0][0], dfs_files[1][0])
+        retval = continer
+
     return retval
 
 if __name__ == '__main__':

@@ -7,6 +7,6 @@ OUTPUT_PATH = r'D:\PycharmProjects\covid19ETL\DW\raw_data\worldmeter'
 
 extract_worldmeter_data(OUTPUT_PATH)
 transform_worldmeter_data()
-extract_gov_data()
+a=extract_gov_data()
 extract_sheet_data()
 
