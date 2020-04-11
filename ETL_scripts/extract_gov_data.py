@@ -14,29 +14,28 @@ def main(outdir=None):
     df['datastore_structure'] = df['resource_id'].apply(lambda x: {'resource_id': x,'limit':RECORDS_LIMIT})\
                                             .apply(lambda x: str.encode(json.dumps(x)))
 
-    dfs_files = []
+    df_names = []
     for _, entry in df.iterrows():
         response  = urllib.request.urlopen(entry["url"], entry['datastore_structure'])
         s = json.loads(response.read())
         records = s["result"]["records"]
-
         data = pd.DataFrame(records).set_index("_id")
-
-        outfile = ".".join([entry['name'], 'csv'])
-        # outpath = os.path.join(GOV_DATA_PATH, outfile)
-        dfs_files.append([data,entry['name']])
+        df_names.append([data,entry['name']])
 
     if outdir:
-        for df_file in dfs_files:
-            df = df_file[0]
-            filename = df_file[1]
+        for df_name in df_names:
+            df = df_name[0]
+            filename = df_name[1]+'csv'
             fullpath = os.path.join(outdir, filename)
             df.to_csv(fullpath)
         retval = None
 
     else:
-        Container = namedtuple('dfs', 'isolations lab_tests')
-        continer = Container(dfs_files[0][0], dfs_files[1][0])
+        dfs = ([df_name[0] for df_name in df_names])
+        names = " ".join([df_name[1] for df_name in df_names])
+
+        Container = namedtuple('dfs', names)
+        continer = Container(*dfs)
         retval = continer
 
     return retval
