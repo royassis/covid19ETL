@@ -3,18 +3,19 @@ import glob
 import re
 import datetime
 import pandas as pd
+from typing import IO
 from collections import namedtuple
 
 # --------------------
 # Merge all seperate raw_data files
 # --------------------
 
-def main(outpath = None):
+def main(resource_dir:IO, outpath:IO = None)->[namedtuple ,None]:
     print(__file__, 'is running')
     conversion_dict= column_remapper.to_dict()
 
     # Iterate and read csv files into df
-    all_files = glob.glob(WORLDMETER_DATA + "/*.csv")
+    all_files = glob.glob(resource_dir + "/*.csv")
     df_list = []
 
     for filename in all_files:
