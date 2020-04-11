@@ -3,6 +3,7 @@ from ETL_scripts.extract_worldmeter.settings import  *
 import re
 import glob
 import pandas as pd
+from typing import Iterable, Union, List, Pattern, IO
 
 # Impored for scraping TheWaybackMachine
 from selenium.webdriver.common.by import By
@@ -10,7 +11,8 @@ from selenium.webdriver.support.ui import WebDriverWait
 from selenium.webdriver.support import expected_conditions as EC
 from selenium.common.exceptions import TimeoutException
 
-def handle_first_time():
+def handle_first_time()->None:
+
     files = os.listdir(OUTPUT_PATH)
     if len(files)!=0 and first_time_bit == 0:
         raise Exception('Dir is not empty')
@@ -19,7 +21,7 @@ def handle_first_time():
         with open(CONFIG_PATH, 'w') as configfile:
             config.write(configfile)
 
-def timeout_get_request(browser, timeout = 50):
+def timeout_get_request(browser:webdriver.Chrome, timeout:int = 50)->None:
     """Set timeout for response from site"""
     try:
         WebDriverWait(browser, timeout).until(EC.visibility_of_element_located((By.XPATH, XPATH)))
@@ -29,7 +31,7 @@ def timeout_get_request(browser, timeout = 50):
         raise Exception('')
 
 
-def download_csv_from_all_urls(new_refs):
+def download_csv_from_all_urls(new_refs:Iterable[str['url']])->None:
     """downloads csv from all urls"""
     urls_len = len(new_refs)
 
@@ -56,18 +58,22 @@ def download_csv_from_all_urls(new_refs):
             logger.error(f'There have been a problem with {ref}')
 
 
-def get_all_urls_matching_regex(browser, url_pattern):
+def get_all_urls_matching_regex(browser:webdriver.Chrome,
+                                regex_pattern:Pattern) ->List[str['urls']]:
     """Scraps the wayback machine for coronavirus worldmeter and gets all urls"""
     refs = []
+    regex_pattern = re.compile(regex_pattern)
     elems = browser.find_elements_by_xpath("//a[@href]")
     for elem in elems:
         ref = elem.get_attribute("href")
-        match = re.search(url_pattern, ref)
+        match = regex_pattern.search(ref)
         if match:
             refs.append(match.group())
     return refs
 
-def get_fresh_urls(all_urls, prev_urls, exluded_urls):
+def get_fresh_urls(all_urls:Iterable[str],
+                   prev_urls:Iterable[str],
+                   exluded_urls:Iterable[str]) -> Union[List[str],None]:
     """Compare downloaded urls to all scraped urls"""
     new_refs = list(set(all_urls) - set(prev_urls) - set(exluded_urls))
     # rmemove today's main_url
@@ -81,7 +87,7 @@ def get_fresh_urls(all_urls, prev_urls, exluded_urls):
     return retval
 
 
-def get_prev_urls(path):
+def get_prev_urls(path:IO)->List[str]:
     """Read all downloaded csv's and make a list of all old urls"""
     prev_urls=[]
     all_files = glob.glob(path + "/*.csv")
