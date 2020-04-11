@@ -3,14 +3,17 @@ import glob
 import re
 import datetime
 import pandas as pd
-from typing import IO
+from typing import IO, Union, Optional
 from collections import namedtuple
 
 # --------------------
 # Merge all seperate worldmeter files and join with outher data sources
 # --------------------
 
-def main(resource_dir:IO, outpath:IO = None, cutoffdate:str ='2020-1-1')->[namedtuple ,None]:
+def main(resource_dir:IO,
+         outpath:Optional[IO] = None,
+         cutoffdate:Optional[str] ='2020-1-1')->Union[namedtuple ,None]:
+
     print(__file__, 'is running')
     conversion_dict= column_remapper.to_dict()
 

@@ -3,9 +3,13 @@ import urllib.request
 import pandas as pd
 import json
 import os
+from typing import IO, Union, Optional
 from collections import namedtuple
 
-def main(outdir=None):
+
+
+def main(outdir:Optional[IO['if none write to file']]=None)->Union[namedtuple ,None]:
+
     print(__file__, 'is running')
     RECORDS_LIMIT = 10000000
 
