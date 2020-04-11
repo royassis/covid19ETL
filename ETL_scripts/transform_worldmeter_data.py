@@ -9,7 +9,7 @@ import pandas as pd
 # Merge all seperate raw_data files
 # --------------------
 
-def main():
+def main(outpath):
     print(__file__, 'is running')
     conversion_dict= column_remapper.to_dict()
 
@@ -83,9 +83,13 @@ def main():
     # --------------------
     # # Output to file
     # --------------------
-    all_data.to_csv(RESULTS_PATH)
-    all_data_seir.to_csv(RESULTS_PATH_SEIR)
-    return (all_data,all_data_seir)
+    if outpath:
+        all_data.to_csv(outpath)
+        all_data_seir.to_csv(outpath)
+        retval = None
+    else:
+        retval = (all_data,all_data_seir)
+    return retval
 
 
 if __name__ == '__main__':
