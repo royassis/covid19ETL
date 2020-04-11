@@ -10,7 +10,7 @@ from collections import namedtuple
 # Merge all seperate raw_data files
 # --------------------
 
-def main(resource_dir:IO, outpath:IO = None)->[namedtuple ,None]:
+def main(resource_dir:IO, outpath:IO = None, cutoffdate:str ='2020-1-1')->[namedtuple ,None]:
     print(__file__, 'is running')
     conversion_dict= column_remapper.to_dict()
 
@@ -46,7 +46,7 @@ def main(resource_dir:IO, outpath:IO = None)->[namedtuple ,None]:
     # Remove the totalrow
     disease_data = disease_data[disease_data["Country"] != 'Total:']
     # Get only reliable raw_data (from 10.2 and so on)
-    disease_data = disease_data[disease_data["date"] >= CUTOFF_DATE]
+    disease_data = disease_data[disease_data["date"] >= cutoffdate]
     #
     disease_data['Country'] = disease_data['Country'].str.lower()
     #
