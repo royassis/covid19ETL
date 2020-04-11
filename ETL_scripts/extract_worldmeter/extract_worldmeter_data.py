@@ -2,7 +2,7 @@ from ETL_scripts.extract_worldmeter.utils.functions import *
 from ETL_scripts.extract_worldmeter.utils.nonsync import main as download_async
 from selenium import webdriver
 
-def main():
+def main(outdir):
     # Validate
     handle_first_time()
 
@@ -20,7 +20,7 @@ def main():
 
     # Get only new raw_data
     logger.info('>>Checking for new links in URL')
-    prev_urls = get_prev_urls(OUTPUT_PATH)
+    prev_urls = get_prev_urls(outdir)
     all_urls = get_all_urls_matching_regex(browser, URL_REGEX_PATTERN)
     new_urls = get_fresh_urls(all_urls, prev_urls, excluded_urls)
 
