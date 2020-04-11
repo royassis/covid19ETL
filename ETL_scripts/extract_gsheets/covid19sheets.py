@@ -15,9 +15,8 @@ SHEET_NAME = 'חולים מאומתים/ישוב'
 RANGE = 'A3:U'
 SAMPLE_RANGE_NAME = f'{SHEET_NAME}!{RANGE}'
 
-OUTPATH = 'results.csv'
+def main(outpath = None):
 
-def main():
     SCOPES = ['https://www.googleapis.com/auth/spreadsheets.readonly']
     service = create_service(SCOPES)
     # Call the Sheets API
@@ -26,7 +25,14 @@ def main():
                                 range=SAMPLE_RANGE_NAME).execute()
 
     df = values_to_df(result)
-    df.to_csv(OUTPATH)
+
+    if outpath:
+        df.to_csv(outpath)
+        retval = None
+    else:
+        retval = df
+
+    return retval
 
 
 if __name__ == '__main__':
