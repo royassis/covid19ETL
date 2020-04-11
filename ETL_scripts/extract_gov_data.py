@@ -5,6 +5,7 @@ import json
 import os
 
 def main():
+    print(__file__, 'is running')
     RECORDS_LIMIT = 10000000
 
     df = pd.read_csv(GOV_RESOURCE_PATH)
@@ -20,7 +21,7 @@ def main():
         data = pd.DataFrame(records).set_index("_id")
 
         outfile = ".".join([entry['name'], 'csv'])
-        outpath = os.path.join(GOV_DATE_PATH, outfile)
+        outpath = os.path.join(GOV_DATA_PATH, outfile)
         data.to_csv(outpath)
 
 if __name__ == '__main__':

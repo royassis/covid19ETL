@@ -10,6 +10,7 @@ import pandas as pd
 # --------------------
 
 def main():
+    print(__file__, 'is running')
     conversion_dict= column_remapper.to_dict()
 
     # Iterate and read csv files into df
