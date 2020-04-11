@@ -4,7 +4,7 @@ import pandas as pd
 import json
 import os
 
-def main(outdir):
+def main(outdir=None):
     print(__file__, 'is running')
     RECORDS_LIMIT = 10000000
 

@@ -3,13 +3,13 @@ import glob
 import re
 import datetime
 import pandas as pd
-
+from collections import namedtuple
 
 # --------------------
 # Merge all seperate raw_data files
 # --------------------
 
-def main(outpath):
+def main(outpath = None):
     print(__file__, 'is running')
     conversion_dict= column_remapper.to_dict()
 
@@ -88,7 +88,10 @@ def main(outpath):
         all_data_seir.to_csv(outpath)
         retval = None
     else:
-        retval = (all_data,all_data_seir)
+        Container = namedtuple('dfs', 'all_data all_data_seir')
+        continer = Container(all_data,all_data_seir)
+        retval = continer
+
     return retval
 
 
