@@ -7,7 +7,7 @@ from typing import IO
 from collections import namedtuple
 
 # --------------------
-# Merge all seperate raw_data files
+# Merge all seperate worldmeter files and join with outher data sources
 # --------------------
 
 def main(resource_dir:IO, outpath:IO = None, cutoffdate:str ='2020-1-1')->[namedtuple ,None]:
@@ -81,8 +81,9 @@ def main(resource_dir:IO, outpath:IO = None, cutoffdate:str ='2020-1-1')->[named
 
     output_cols = ['S', 'E', 'I', 'R', 'country', 'date']
     all_data_seir = all_data[output_cols]
+
     # --------------------
-    # # Output to file
+    # Output to file/variable
     # --------------------
     if outpath:
         all_data.to_csv(outpath)
