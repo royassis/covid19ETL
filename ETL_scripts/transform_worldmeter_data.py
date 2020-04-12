@@ -12,7 +12,7 @@ from collections import namedtuple
 
 def main(resource_dir:IO,
          outpath:Optional[IO] = None,
-         cutoffdate:Optional[str] ='2020-1-1')->Union[namedtuple[pd.DataFrame] ,None]:
+         cutoffdate:Optional[str] ='2020-1-1')->Union[namedtuple ,None]:
 
     print(__file__, 'is running')
     conversion_dict= column_remapper.to_dict()

@@ -31,7 +31,7 @@ def timeout_get_request(browser:webdriver.Chrome, timeout:int = 50)->None:
         raise Exception('')
 
 
-def download_csv_from_all_urls(new_refs:Iterable[str['url']])->None:
+def download_csv_from_all_urls(new_refs:Iterable[str])->None:
     """downloads csv from all urls"""
     urls_len = len(new_refs)
 
@@ -59,7 +59,7 @@ def download_csv_from_all_urls(new_refs:Iterable[str['url']])->None:
 
 
 def get_all_urls_matching_regex(browser:webdriver.Chrome,
-                                regex_pattern:Pattern) ->List[str['urls']]:
+                                regex_pattern:Pattern) ->List[str]:
     """Scraps the wayback machine for coronavirus worldmeter and gets all urls"""
     refs = []
     regex_pattern = re.compile(regex_pattern)

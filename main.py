@@ -8,6 +8,6 @@ CUTOFF_DATE = '2020-02-10'
 
 extract_worldmeter_data(DATA_DIR)
 transform_worldmeter_data(DATA_DIR,cutoffdate = CUTOFF_DATE)
-a=extract_gov_data()
-extract_sheet_data()
+a=extract_gov_data(r'D:\PycharmProjects\covid19ETL\DW\raw_data\gov_data')
+extract_sheet_data(r'D:\PycharmProjects\covid19ETL\DW\raw_data\gov_data')
 
