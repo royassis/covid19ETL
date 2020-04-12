@@ -29,7 +29,7 @@ def main(outdir:Optional[IO]=None)->Union[namedtuple,None]:
     if outdir:
         for df_name in df_names:
             df = df_name[0]
-            filename = df_name[1]+'csv'
+            filename = df_name[1]+'.csv'
             fullpath = os.path.join(outdir, filename)
             df.to_csv(fullpath)
         retval = None
