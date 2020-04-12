@@ -89,8 +89,8 @@ def main(resource_dir:IO,
     # Output to file/variable
     # --------------------
     if outpath:
-        all_data.to_csv(outpath)
-        all_data_seir.to_csv(outpath)
+        all_data.to_csv(os.path.join(outpath,'all_data.csv'))
+        all_data_seir.to_csv(os.path.join(outpath,'all_data_seir.csv'))
         retval = None
     else:
         Container = namedtuple('dfs', 'all_data all_data_seir')
