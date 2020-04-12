@@ -26,6 +26,7 @@ def main(outpath = None):
     df = values_to_df(result)
 
     if outpath:
+        outpath = os.path.join(outpath,'gsheets.csv')
         df.to_csv(outpath)
         retval = None
     else:
